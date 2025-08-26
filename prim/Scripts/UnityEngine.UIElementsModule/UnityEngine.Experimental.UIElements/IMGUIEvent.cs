@@ -1,0 +1,22 @@
+namespace UnityEngine.Experimental.UIElements;
+
+public class IMGUIEvent : EventBase<IMGUIEvent>
+{
+	public IMGUIEvent()
+	{
+		Init();
+	}
+
+	public static IMGUIEvent GetPooled(Event systemEvent)
+	{
+		IMGUIEvent pooled = EventBase<IMGUIEvent>.GetPooled();
+		pooled.imguiEvent = systemEvent;
+		return pooled;
+	}
+
+	protected override void Init()
+	{
+		base.Init();
+		base.flags = EventFlags.Bubbles | EventFlags.Capturable | EventFlags.Cancellable;
+	}
+}

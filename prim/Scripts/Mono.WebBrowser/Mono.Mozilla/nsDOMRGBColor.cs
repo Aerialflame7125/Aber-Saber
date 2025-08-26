@@ -1,0 +1,11 @@
+using Mono.WebBrowser;
+
+namespace Mono.Mozilla;
+
+internal class nsDOMRGBColor
+{
+	public static nsIDOMRGBColor GetProxy(IWebBrowser control, nsIDOMRGBColor obj)
+	{
+		return Base.GetProxyForObject(control, typeof(nsIDOMRGBColor).GUID, obj) as nsIDOMRGBColor;
+	}
+}
