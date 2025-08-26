@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab552d3072890cf4c9c5eb67dbf3276f, type: 3}
+  m_Name: CustomLevelsCollection
+  m_EditorClassIdentifier: 
+  levels:
+  - levelID: Midnight City
+    songName: Midnight City
+    songAuthorName: M83
+    levelAuthorName: BennyDaBeast
+    bpm: 105
+    songPath: C:/Users/colin/OneDrive/Documents/BSManager/BSInstances/0.11.1/Unity/proj/ExportedProject/Assets/StreamingAssets\CustomLevels\Midnight
+      City\Midnight City.egg
+    coverImagePath: C:/Users/colin/OneDrive/Documents/BSManager/BSInstances/0.11.1/Unity/proj/ExportedProject/Assets/StreamingAssets\CustomLevels\Midnight
+      City\cover.jpeg
+  - levelID: RCTTS
+    songName: Reality Check Through The Skull
+    songAuthorName: Mapped by Rickput
+    levelAuthorName: DM DOKURO
+    bpm: 260
+    songPath: C:/Users/colin/OneDrive/Documents/BSManager/BSInstances/0.11.1/Unity/proj/ExportedProject/Assets/StreamingAssets\CustomLevels\RCTTS\RCTTS.ogg
+    coverImagePath: C:/Users/colin/OneDrive/Documents/BSManager/BSInstances/0.11.1/Unity/proj/ExportedProject/Assets/StreamingAssets\CustomLevels\RCTTS\cover.jpg

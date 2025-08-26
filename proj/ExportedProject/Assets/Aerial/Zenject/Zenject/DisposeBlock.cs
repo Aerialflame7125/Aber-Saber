@@ -1,0 +1,178 @@
+using System;
+using System.Collections.Generic;
+using ModestTree;
+
+namespace Zenject;
+
+[NoReflectionBaking]
+public class DisposeBlock : IDisposable
+{
+	private struct SpawnedObjectPoolPair
+	{
+		public IMemoryPool Pool;
+
+		public object Object;
+	}
+
+	private static readonly StaticMemoryPool<DisposeBlock> _pool = new StaticMemoryPool<DisposeBlock>(OnSpawned, OnDespawned);
+
+	private List<IDisposable> _disposables;
+
+	private List<SpawnedObjectPoolPair> _objectPoolPairs;
+
+	private static void OnSpawned(DisposeBlock that)
+	{
+		Assert.IsNull(that._disposables);
+		Assert.IsNull(that._objectPoolPairs);
+	}
+
+	private static void OnDespawned(DisposeBlock that)
+	{
+		if (that._disposables != null)
+		{
+			for (int num = that._disposables.Count - 1; num >= 0; num--)
+			{
+				that._disposables[num].Dispose();
+			}
+			ListPool<IDisposable>.Instance.Despawn(that._disposables);
+			that._disposables = null;
+		}
+		if (that._objectPoolPairs != null)
+		{
+			for (int num2 = that._objectPoolPairs.Count - 1; num2 >= 0; num2--)
+			{
+				SpawnedObjectPoolPair spawnedObjectPoolPair = that._objectPoolPairs[num2];
+				spawnedObjectPoolPair.Pool.Despawn(spawnedObjectPoolPair.Object);
+			}
+			ListPool<SpawnedObjectPoolPair>.Instance.Despawn(that._objectPoolPairs);
+			that._objectPoolPairs = null;
+		}
+	}
+
+	private void LazyInitializeDisposableList()
+	{
+		if (_disposables == null)
+		{
+			_disposables = ListPool<IDisposable>.Instance.Spawn();
+		}
+	}
+
+	public void AddRange<T>(IList<T> disposables) where T : IDisposable
+	{
+		LazyInitializeDisposableList();
+		for (int i = 0; i < disposables.Count; i++)
+		{
+			_disposables.Add(disposables[i]);
+		}
+	}
+
+	public void Add(IDisposable disposable)
+	{
+		LazyInitializeDisposableList();
+		Assert.That(!_disposables.Contains(disposable));
+		_disposables.Add(disposable);
+	}
+
+	public void Remove(IDisposable disposable)
+	{
+		Assert.IsNotNull(_disposables);
+		MiscExtensions.RemoveWithConfirm(_disposables, disposable);
+	}
+
+	private void StoreSpawnedObject<T>(T obj, IDespawnableMemoryPool<T> pool)
+	{
+		if (TypeExtensions.DerivesFrom<IDisposable>(typeof(T)))
+		{
+			Add((IDisposable)(object)obj);
+			return;
+		}
+		SpawnedObjectPoolPair item = new SpawnedObjectPoolPair
+		{
+			Pool = pool,
+			Object = obj
+		};
+		if (_objectPoolPairs == null)
+		{
+			_objectPoolPairs = ListPool<SpawnedObjectPoolPair>.Instance.Spawn();
+		}
+		_objectPoolPairs.Add(item);
+	}
+
+	public T Spawn<T>(IMemoryPool<T> pool)
+	{
+		T val = pool.Spawn();
+		StoreSpawnedObject(val, pool);
+		return val;
+	}
+
+	public TValue Spawn<TValue, TParam1>(IMemoryPool<TParam1, TValue> pool, TParam1 p1)
+	{
+		TValue val = pool.Spawn(p1);
+		StoreSpawnedObject(val, pool);
+		return val;
+	}
+
+	public TValue Spawn<TValue, TParam1, TParam2>(IMemoryPool<TParam1, TParam2, TValue> pool, TParam1 p1, TParam2 p2)
+	{
+		TValue val = pool.Spawn(p1, p2);
+		StoreSpawnedObject(val, pool);
+		return val;
+	}
+
+	public TValue Spawn<TValue, TParam1, TParam2, TParam3>(IMemoryPool<TParam1, TParam2, TParam3, TValue> pool, TParam1 p1, TParam2 p2, TParam3 p3)
+	{
+		TValue val = pool.Spawn(p1, p2, p3);
+		StoreSpawnedObject(val, pool);
+		return val;
+	}
+
+	public TValue Spawn<TValue, TParam1, TParam2, TParam3, TParam4>(IMemoryPool<TParam1, TParam2, TParam3, TParam4, TValue> pool, TParam1 p1, TParam2 p2, TParam3 p3, TParam4 p4)
+	{
+		TValue val = pool.Spawn(p1, p2, p3, p4);
+		StoreSpawnedObject(val, pool);
+		return val;
+	}
+
+	public TValue Spawn<TValue, TParam1, TParam2, TParam3, TParam4, TParam5>(IMemoryPool<TParam1, TParam2, TParam3, TParam4, TParam5, TValue> pool, TParam1 p1, TParam2 p2, TParam3 p3, TParam4 p4, TParam5 p5)
+	{
+		TValue val = pool.Spawn(p1, p2, p3, p4, p5);
+		StoreSpawnedObject(val, pool);
+		return val;
+	}
+
+	public TValue Spawn<TValue, TParam1, TParam2, TParam3, TParam4, TParam5, TParam6>(IMemoryPool<TParam1, TParam2, TParam3, TParam4, TParam5, TParam6, TValue> pool, TParam1 p1, TParam2 p2, TParam3 p3, TParam4 p4, TParam5 p5, TParam6 p6)
+	{
+		TValue val = pool.Spawn(p1, p2, p3, p4, p5, p6);
+		StoreSpawnedObject(val, pool);
+		return val;
+	}
+
+	public TValue Spawn<TValue, TParam1, TParam2, TParam3, TParam4, TParam5, TParam6, TParam7>(IMemoryPool<TParam1, TParam2, TParam3, TParam4, TParam5, TParam6, TParam7, TValue> pool, TParam1 p1, TParam2 p2, TParam3 p3, TParam4 p4, TParam5 p5, TParam6 p6, TParam7 p7)
+	{
+		TValue val = pool.Spawn(p1, p2, p3, p4, p5, p6, p7);
+		StoreSpawnedObject(val, pool);
+		return val;
+	}
+
+	public List<T> SpawnList<T>(IEnumerable<T> elements)
+	{
+		List<T> list = SpawnList<T>();
+		list.AddRange(elements);
+		return list;
+	}
+
+	public List<T> SpawnList<T>()
+	{
+		return Spawn(ListPool<T>.Instance);
+	}
+
+	public static DisposeBlock Spawn()
+	{
+		return _pool.Spawn();
+	}
+
+	public void Dispose()
+	{
+		_pool.Despawn(this);
+	}
+}

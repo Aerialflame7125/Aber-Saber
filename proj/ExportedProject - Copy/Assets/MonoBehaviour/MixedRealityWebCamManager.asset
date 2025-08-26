@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ea3c3f4e4c60df6fe9f392497ed97cb, type: 3}
+  m_Name: MixedRealityWebCamManager
+  m_EditorClassIdentifier:
+  _mixedRealitySettings: {fileID: 11400000, guid: 4a5b5bf521b793c4dbfb01c892b82e04, type: 2}
+  _mixedRealityWebCamPrefab: {fileID: 1534981387689024, guid: 0928faeaa784f034c90b187e2a7a870d, type: 2}

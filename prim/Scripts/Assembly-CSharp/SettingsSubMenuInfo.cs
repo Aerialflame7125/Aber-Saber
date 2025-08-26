@@ -1,0 +1,17 @@
+using System;
+using UnityEngine;
+using VRUI;
+
+[Serializable]
+public class SettingsSubMenuInfo
+{
+	[SerializeField]
+	private VRUIViewController _controller;
+
+	[SerializeField]
+	private string _menuName;
+
+	public VRUIViewController controller => _controller;
+
+	public string menuName => _menuName;
+}

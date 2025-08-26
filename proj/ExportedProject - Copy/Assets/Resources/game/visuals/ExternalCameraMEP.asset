@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b36c485eb1647ae1c00c308774c54c90, type: 3}
+  m_Name: ExternalCameraMEP
+  m_EditorClassIdentifier:
+  baseColorBoost: 3
+  baseColorBoostThreshold: 0.05
+  bloomIterations: 4
+  bloomAlphaWeightScale: 1
+  bloomIntensity: 1
+  textureWidth: 960
+  textureHeight: 540
+  depthTextureEnabled: 0

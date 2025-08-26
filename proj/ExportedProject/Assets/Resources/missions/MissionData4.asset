@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79caeabbf74602cf92f82f91f1933d0f, type: 3}
+  m_Name: MissionData4
+  m_EditorClassIdentifier:
+  _missionId: 4
+  _formula: combo<(2)
+  _description: Get combo less than 2.
+  _levelData: {fileID: 11400000, guid: 70ea086815287e44d94de8e17f704a8c, type: 2}
+  _difficulty: 3
+  _gameplayOptions:
+    staticLights: 0
+    mirror: 0
+    noEnergy: 0
+    obstaclesOption: 0

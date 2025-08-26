@@ -1,0 +1,2042 @@
+{
+	"m_Container": {
+		"audio/audiocliploader": { "m_Collection": "globalgamemanagers", "m_PathID": 131 },
+		"avprolivecameraicon": { "m_Collection": "globalgamemanagers", "m_PathID": 13 },
+		"beatmapeditor.activedifficulty": { "m_Collection": "globalgamemanagers", "m_PathID": 104 },
+		"beatmapeditor.editoraudio": { "m_Collection": "globalgamemanagers", "m_PathID": 105 },
+		"beatmapeditor.editorbeatmap": { "m_Collection": "globalgamemanagers", "m_PathID": 106 },
+		"beatmapeditor.editorcopypastefilter": { "m_Collection": "globalgamemanagers", "m_PathID": 107 },
+		"beatmapeditor.editorlevelcoverimage": { "m_Collection": "globalgamemanagers", "m_PathID": 108 },
+		"beatmapeditor.editorselectednotecutdirection": { "m_Collection": "globalgamemanagers", "m_PathID": 109 },
+		"beatmapeditor.editorselectednotetype": { "m_Collection": "globalgamemanagers", "m_PathID": 110 },
+		"beatmapeditor.editorsongparams": { "m_Collection": "globalgamemanagers", "m_PathID": 111 },
+		"beatmapeditor.editorstandardlevelinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 112 },
+		"beatmapeditor.editorstandardlevelproject": { "m_Collection": "globalgamemanagers", "m_PathID": 113 },
+		"cubemap blit": { "m_Collection": "globalgamemanagers", "m_PathID": 34 },
+		"game/activeobstaclesmanager": { "m_Collection": "globalgamemanagers", "m_PathID": 132 },
+		"game/events/gamedidpauseevent": { "m_Collection": "globalgamemanagers", "m_PathID": 133 },
+		"game/events/gamedidresumeevent": { "m_Collection": "globalgamemanagers", "m_PathID": 134 },
+		"game/events/gameplaymanager.levelfailedevent": { "m_Collection": "globalgamemanagers", "m_PathID": 135 },
+		"game/events/gameplaymanager.levelfinishedevent": { "m_Collection": "globalgamemanagers", "m_PathID": 136 },
+		"game/events/gamescenesmanager.transitiondidstartevent": { "m_Collection": "globalgamemanagers", "m_PathID": 8 },
+		"game/events/pausemenumanager.didfinishwithcuntinuebutton": { "m_Collection": "globalgamemanagers", "m_PathID": 137 },
+		"game/events/pausemenumanager.didfinishwithmenubutton": { "m_Collection": "globalgamemanagers", "m_PathID": 138 },
+		"game/events/pausemenumanager.didfinishwithrestartbutton": { "m_Collection": "globalgamemanagers", "m_PathID": 139 },
+		"game/events/segmentedcontrolcellwaspressed": { "m_Collection": "globalgamemanagers", "m_PathID": 140 },
+		"game/events/tablecellwaspressed": { "m_Collection": "globalgamemanagers", "m_PathID": 141 },
+		"game/events/toggle.togglewaspressedevent": { "m_Collection": "globalgamemanagers", "m_PathID": 142 },
+		"game/events/tutorial/tutorialcontroller.tutorialfinishedevent": { "m_Collection": "globalgamemanagers", "m_PathID": 143 },
+		"game/events/tutorial/tutorialcontroller.tutorialintrostartedevent": { "m_Collection": "globalgamemanagers", "m_PathID": 144 },
+		"game/events/tutorial/tutorialsongcontroller.bombcuttingtutorialpartdidstartevent": { "m_Collection": "globalgamemanagers", "m_PathID": 145 },
+		"game/events/tutorial/tutorialsongcontroller.bombwascutevent": { "m_Collection": "globalgamemanagers", "m_PathID": 146 },
+		"game/events/tutorial/tutorialsongcontroller.leftobstacletutorialpartdidstartevent": { "m_Collection": "globalgamemanagers", "m_PathID": 147 },
+		"game/events/tutorial/tutorialsongcontroller.notecuttinginanydirectiondidstartevent": { "m_Collection": "globalgamemanagers", "m_PathID": 148 },
+		"game/events/tutorial/tutorialsongcontroller.notecuttingtutorialpartdidstartevent": { "m_Collection": "globalgamemanagers", "m_PathID": 149 },
+		"game/events/tutorial/tutorialsongcontroller.notewascutfromdifferentdirectionevent": { "m_Collection": "globalgamemanagers", "m_PathID": 150 },
+		"game/events/tutorial/tutorialsongcontroller.notewascutokevent": { "m_Collection": "globalgamemanagers", "m_PathID": 151 },
+		"game/events/tutorial/tutorialsongcontroller.notewascuttoosoonevent": { "m_Collection": "globalgamemanagers", "m_PathID": 152 },
+		"game/events/tutorial/tutorialsongcontroller.notewascutwithslowspeedevent": { "m_Collection": "globalgamemanagers", "m_PathID": 153 },
+		"game/events/tutorial/tutorialsongcontroller.notewascutwithwrongcolorevent": { "m_Collection": "globalgamemanagers", "m_PathID": 154 },
+		"game/events/tutorial/tutorialsongcontroller.rightobstacletutorialpartdidstartevent": { "m_Collection": "globalgamemanagers", "m_PathID": 155 },
+		"game/events/tutorial/tutorialsongcontroller.topobstacletutorialpartdidstartevent": { "m_Collection": "globalgamemanagers", "m_PathID": 156 },
+		"game/events/uibuttonwaspressed": { "m_Collection": "globalgamemanagers", "m_PathID": 157 },
+		"game/playerheadandobstacleinteraction": { "m_Collection": "globalgamemanagers", "m_PathID": 158 },
+		"game/providers/beatmapdatamodelprovider": { "m_Collection": "globalgamemanagers", "m_PathID": 159 },
+		"game/providers/beatmapobjectcallbackcontrollerprovider": { "m_Collection": "globalgamemanagers", "m_PathID": 160 },
+		"game/providers/beatmapobjectspawncontrollerprovider": { "m_Collection": "globalgamemanagers", "m_PathID": 161 },
+		"game/providers/gameenergycounterprovider": { "m_Collection": "globalgamemanagers", "m_PathID": 162 },
+		"game/providers/maincameraprovider": { "m_Collection": "globalgamemanagers", "m_PathID": 163 },
+		"game/providers/mixedrealityprovider": { "m_Collection": "globalgamemanagers", "m_PathID": 164 },
+		"game/providers/playercontrollerprovider": { "m_Collection": "globalgamemanagers", "m_PathID": 165 },
+		"game/providers/saberclashcheckerprovider": { "m_Collection": "globalgamemanagers", "m_PathID": 166 },
+		"game/providers/scorecontrollerprovider": { "m_Collection": "globalgamemanagers", "m_PathID": 167 },
+		"game/providers/songcontrollerprovider": { "m_Collection": "globalgamemanagers", "m_PathID": 168 },
+		"game/providers/songpreviewplayerprovider": { "m_Collection": "globalgamemanagers", "m_PathID": 169 },
+		"game/providers/spectrogramdataprovider": { "m_Collection": "globalgamemanagers", "m_PathID": 170 },
+		"game/variables/audiotimesynccontroller.dsptimeoffset": { "m_Collection": "globalgamemanagers", "m_PathID": 171 },
+		"game/variables/audiotimesynccontroller.songtime": { "m_Collection": "globalgamemanagers", "m_PathID": 172 },
+		"game/variables/fadeinoutparam": { "m_Collection": "globalgamemanagers", "m_PathID": 173 },
+		"game/visuals/bloomfog/bloomfog": { "m_Collection": "globalgamemanagers", "m_PathID": 174 },
+		"game/visuals/bloomfog/densefogparams": { "m_Collection": "globalgamemanagers", "m_PathID": 175 },
+		"game/visuals/bloomfog/gamebppp": { "m_Collection": "globalgamemanagers", "m_PathID": 9 },
+		"game/visuals/bloomfog/gamefogparams": { "m_Collection": "globalgamemanagers", "m_PathID": 176 },
+		"game/visuals/bloomfog/menufogparams": { "m_Collection": "globalgamemanagers", "m_PathID": 177 },
+		"game/visuals/bluenoisedithering": { "m_Collection": "globalgamemanagers", "m_PathID": 178 },
+		"game/visuals/colormanager": { "m_Collection": "globalgamemanagers", "m_PathID": 179 },
+		"game/visuals/colors/basecolor0": { "m_Collection": "globalgamemanagers", "m_PathID": 180 },
+		"game/visuals/colors/basecolor1": { "m_Collection": "globalgamemanagers", "m_PathID": 181 },
+		"game/visuals/colors/color blue": { "m_Collection": "globalgamemanagers", "m_PathID": 182 },
+		"game/visuals/colors/color red": { "m_Collection": "globalgamemanagers", "m_PathID": 183 },
+		"game/visuals/colors/envlightcolor0brighter": { "m_Collection": "globalgamemanagers", "m_PathID": 184 },
+		"game/visuals/colors/envlightcolor0dim": { "m_Collection": "globalgamemanagers", "m_PathID": 185 },
+		"game/visuals/colors/envlightcolor0highlight": { "m_Collection": "globalgamemanagers", "m_PathID": 186 },
+		"game/visuals/colors/envlightcolor0normal": { "m_Collection": "globalgamemanagers", "m_PathID": 187 },
+		"game/visuals/colors/envlightcolor1brighter": { "m_Collection": "globalgamemanagers", "m_PathID": 188 },
+		"game/visuals/colors/envlightcolor1dim": { "m_Collection": "globalgamemanagers", "m_PathID": 189 },
+		"game/visuals/colors/envlightcolor1highlight": { "m_Collection": "globalgamemanagers", "m_PathID": 190 },
+		"game/visuals/colors/envlightcolor1normal": { "m_Collection": "globalgamemanagers", "m_PathID": 191 },
+		"game/visuals/externalcameramep": { "m_Collection": "globalgamemanagers", "m_PathID": 192 },
+		"game/visuals/fadeinout": { "m_Collection": "globalgamemanagers", "m_PathID": 193 },
+		"game/visuals/gamemep": { "m_Collection": "globalgamemanagers", "m_PathID": 10 },
+		"game/visuals/mirrorrenderer": { "m_Collection": "globalgamemanagers", "m_PathID": 11 },
+		"game/visuals/mreditormep": { "m_Collection": "globalgamemanagers", "m_PathID": 194 },
+		"game/visuals/randomvaluetoshader": { "m_Collection": "globalgamemanagers", "m_PathID": 195 },
+		"game/visuals/smokeparams": { "m_Collection": "globalgamemanagers", "m_PathID": 12 },
+		"gamescenesmanager": { "m_Collection": "globalgamemanagers", "m_PathID": 13 },
+		"graphicssettings/bloomprepassgraphicssettingspresets": { "m_Collection": "globalgamemanagers", "m_PathID": 14 },
+		"graphicssettings/maineffectgraphicssettingspresets": { "m_Collection": "globalgamemanagers", "m_PathID": 15 },
+		"graphicssettings/mirrorrenderergraphicssettingspresets": { "m_Collection": "globalgamemanagers", "m_PathID": 16 },
+		"levels/beatmapsdata/beatmapdata_$100bills-easy": { "m_Collection": "globalgamemanagers", "m_PathID": 196 },
+		"levels/beatmapsdata/beatmapdata_$100bills-expert": { "m_Collection": "globalgamemanagers", "m_PathID": 197 },
+		"levels/beatmapsdata/beatmapdata_$100bills-hard": { "m_Collection": "globalgamemanagers", "m_PathID": 198 },
+		"levels/beatmapsdata/beatmapdata_$100bills-normal": { "m_Collection": "globalgamemanagers", "m_PathID": 199 },
+		"levels/beatmapsdata/beatmapdata_$100bills-onesaber": { "m_Collection": "globalgamemanagers", "m_PathID": 200 },
+		"levels/beatmapsdata/beatmapdata_angelvoices-easy": { "m_Collection": "globalgamemanagers", "m_PathID": 201 },
+		"levels/beatmapsdata/beatmapdata_angelvoices-expert": { "m_Collection": "globalgamemanagers", "m_PathID": 202 },
+		"levels/beatmapsdata/beatmapdata_angelvoices-hard": { "m_Collection": "globalgamemanagers", "m_PathID": 203 },
+		"levels/beatmapsdata/beatmapdata_angelvoices-normal": { "m_Collection": "globalgamemanagers", "m_PathID": 204 },
+		"levels/beatmapsdata/beatmapdata_balearicpumping-easy": { "m_Collection": "globalgamemanagers", "m_PathID": 205 },
+		"levels/beatmapsdata/beatmapdata_balearicpumping-expert": { "m_Collection": "globalgamemanagers", "m_PathID": 206 },
+		"levels/beatmapsdata/beatmapdata_balearicpumping-hard": { "m_Collection": "globalgamemanagers", "m_PathID": 207 },
+		"levels/beatmapsdata/beatmapdata_balearicpumping-normal": { "m_Collection": "globalgamemanagers", "m_PathID": 208 },
+		"levels/beatmapsdata/beatmapdata_beatsaber-easy": { "m_Collection": "globalgamemanagers", "m_PathID": 209 },
+		"levels/beatmapsdata/beatmapdata_beatsaber-expert": { "m_Collection": "globalgamemanagers", "m_PathID": 210 },
+		"levels/beatmapsdata/beatmapdata_beatsaber-expertplus": { "m_Collection": "globalgamemanagers", "m_PathID": 211 },
+		"levels/beatmapsdata/beatmapdata_beatsaber-hard": { "m_Collection": "globalgamemanagers", "m_PathID": 212 },
+		"levels/beatmapsdata/beatmapdata_beatsaber-normal": { "m_Collection": "globalgamemanagers", "m_PathID": 213 },
+		"levels/beatmapsdata/beatmapdata_beatsaber-onesaber": { "m_Collection": "globalgamemanagers", "m_PathID": 214 },
+		"levels/beatmapsdata/beatmapdata_breezer-easy": { "m_Collection": "globalgamemanagers", "m_PathID": 215 },
+		"levels/beatmapsdata/beatmapdata_breezer-expert": { "m_Collection": "globalgamemanagers", "m_PathID": 216 },
+		"levels/beatmapsdata/beatmapdata_breezer-hard": { "m_Collection": "globalgamemanagers", "m_PathID": 217 },
+		"levels/beatmapsdata/beatmapdata_breezer-normal": { "m_Collection": "globalgamemanagers", "m_PathID": 218 },
+		"levels/beatmapsdata/beatmapdata_commercialpumping-easy": { "m_Collection": "globalgamemanagers", "m_PathID": 219 },
+		"levels/beatmapsdata/beatmapdata_commercialpumping-expert": { "m_Collection": "globalgamemanagers", "m_PathID": 220 },
+		"levels/beatmapsdata/beatmapdata_commercialpumping-hard": { "m_Collection": "globalgamemanagers", "m_PathID": 221 },
+		"levels/beatmapsdata/beatmapdata_commercialpumping-normal": { "m_Collection": "globalgamemanagers", "m_PathID": 222 },
+		"levels/beatmapsdata/beatmapdata_escape-easy": { "m_Collection": "globalgamemanagers", "m_PathID": 223 },
+		"levels/beatmapsdata/beatmapdata_escape-expert": { "m_Collection": "globalgamemanagers", "m_PathID": 224 },
+		"levels/beatmapsdata/beatmapdata_escape-hard": { "m_Collection": "globalgamemanagers", "m_PathID": 225 },
+		"levels/beatmapsdata/beatmapdata_escape-normal": { "m_Collection": "globalgamemanagers", "m_PathID": 226 },
+		"levels/beatmapsdata/beatmapdata_escape-onesaber": { "m_Collection": "globalgamemanagers", "m_PathID": 227 },
+		"levels/beatmapsdata/beatmapdata_kingsandfolk-easy": { "m_Collection": "globalgamemanagers", "m_PathID": 228 },
+		"levels/beatmapsdata/beatmapdata_kingsandfolk-expert": { "m_Collection": "globalgamemanagers", "m_PathID": 229 },
+		"levels/beatmapsdata/beatmapdata_kingsandfolk-hard": { "m_Collection": "globalgamemanagers", "m_PathID": 230 },
+		"levels/beatmapsdata/beatmapdata_kingsandfolk-normal": { "m_Collection": "globalgamemanagers", "m_PathID": 231 },
+		"levels/beatmapsdata/beatmapdata_legend-easy": { "m_Collection": "globalgamemanagers", "m_PathID": 232 },
+		"levels/beatmapsdata/beatmapdata_legend-expert": { "m_Collection": "globalgamemanagers", "m_PathID": 233 },
+		"levels/beatmapsdata/beatmapdata_legend-hard": { "m_Collection": "globalgamemanagers", "m_PathID": 234 },
+		"levels/beatmapsdata/beatmapdata_legend-normal": { "m_Collection": "globalgamemanagers", "m_PathID": 235 },
+		"levels/beatmapsdata/beatmapdata_legend-onesaber": { "m_Collection": "globalgamemanagers", "m_PathID": 236 },
+		"levels/beatmapsdata/beatmapdata_lvlinsane-easy": { "m_Collection": "globalgamemanagers", "m_PathID": 237 },
+		"levels/beatmapsdata/beatmapdata_lvlinsane-expert": { "m_Collection": "globalgamemanagers", "m_PathID": 238 },
+		"levels/beatmapsdata/beatmapdata_lvlinsane-hard": { "m_Collection": "globalgamemanagers", "m_PathID": 239 },
+		"levels/beatmapsdata/beatmapdata_lvlinsane-normal": { "m_Collection": "globalgamemanagers", "m_PathID": 240 },
+		"levels/beatmapsdata/beatmapdata_turnmeon-easy": { "m_Collection": "globalgamemanagers", "m_PathID": 241 },
+		"levels/beatmapsdata/beatmapdata_turnmeon-expert": { "m_Collection": "globalgamemanagers", "m_PathID": 242 },
+		"levels/beatmapsdata/beatmapdata_turnmeon-hard": { "m_Collection": "globalgamemanagers", "m_PathID": 243 },
+		"levels/beatmapsdata/beatmapdata_turnmeon-normal": { "m_Collection": "globalgamemanagers", "m_PathID": 244 },
+		"levels/beatmapsdata/beatmapdata_turnmeon-onesaber": { "m_Collection": "globalgamemanagers", "m_PathID": 245 },
+		"levels/beatmapsdata/tests/beatmapdata_obstacletest": { "m_Collection": "globalgamemanagers", "m_PathID": 246 },
+		"levels/beatmapsdata/tests/beatmapdata_test": { "m_Collection": "globalgamemanagers", "m_PathID": 247 },
+		"levels/collections/arcadelevelscollection": { "m_Collection": "globalgamemanagers", "m_PathID": 248 },
+		"levels/collections/demolevelscollection": { "m_Collection": "globalgamemanagers", "m_PathID": 249 },
+		"levels/collections/onesaberlevelscollection": { "m_Collection": "globalgamemanagers", "m_PathID": 250 },
+		"levels/collections/standardlevelscollection": { "m_Collection": "globalgamemanagers", "m_PathID": 251 },
+		"levels/levelcollectionsforgameplaymodes": { "m_Collection": "globalgamemanagers", "m_PathID": 252 },
+		"levels/onesabermodelevels/$100billsonesaber": { "m_Collection": "globalgamemanagers", "m_PathID": 253 },
+		"levels/onesabermodelevels/beatsaberonesaber": { "m_Collection": "globalgamemanagers", "m_PathID": 254 },
+		"levels/onesabermodelevels/escapeonesaber": { "m_Collection": "globalgamemanagers", "m_PathID": 255 },
+		"levels/onesabermodelevels/legendonesaber": { "m_Collection": "globalgamemanagers", "m_PathID": 256 },
+		"levels/onesabermodelevels/turnmeononesaber": { "m_Collection": "globalgamemanagers", "m_PathID": 257 },
+		"levels/standardmodelevels/$100bills": { "m_Collection": "globalgamemanagers", "m_PathID": 258 },
+		"levels/standardmodelevels/angelvoices": { "m_Collection": "globalgamemanagers", "m_PathID": 259 },
+		"levels/standardmodelevels/balearicpumping": { "m_Collection": "globalgamemanagers", "m_PathID": 260 },
+		"levels/standardmodelevels/beatsaber": { "m_Collection": "globalgamemanagers", "m_PathID": 261 },
+		"levels/standardmodelevels/breezer": { "m_Collection": "globalgamemanagers", "m_PathID": 262 },
+		"levels/standardmodelevels/commercialpumping": { "m_Collection": "globalgamemanagers", "m_PathID": 263 },
+		"levels/standardmodelevels/escape": { "m_Collection": "globalgamemanagers", "m_PathID": 264 },
+		"levels/standardmodelevels/insane": { "m_Collection": "globalgamemanagers", "m_PathID": 265 },
+		"levels/standardmodelevels/kingsandfolk": { "m_Collection": "globalgamemanagers", "m_PathID": 266 },
+		"levels/standardmodelevels/legend": { "m_Collection": "globalgamemanagers", "m_PathID": 267 },
+		"levels/standardmodelevels/turnmeon": { "m_Collection": "globalgamemanagers", "m_PathID": 268 },
+		"linebreaking following characters": { "m_Collection": "globalgamemanagers", "m_PathID": 55 },
+		"linebreaking leading characters": { "m_Collection": "globalgamemanagers", "m_PathID": 56 },
+		"materials/liv_blit": { "m_Collection": "globalgamemanagers", "m_PathID": 35 },
+		"materials/liv_clearbackground": { "m_Collection": "globalgamemanagers", "m_PathID": 36 },
+		"missions/missiondata1": { "m_Collection": "globalgamemanagers", "m_PathID": 269 },
+		"missions/missiondata2": { "m_Collection": "globalgamemanagers", "m_PathID": 270 },
+		"missions/missiondata3": { "m_Collection": "globalgamemanagers", "m_PathID": 271 },
+		"missions/missiondata4": { "m_Collection": "globalgamemanagers", "m_PathID": 272 },
+		"missions/missiondata5": { "m_Collection": "globalgamemanagers", "m_PathID": 273 },
+		"missions/missionsdata": { "m_Collection": "globalgamemanagers", "m_PathID": 274 },
+		"oculusplatformsettings": { "m_Collection": "globalgamemanagers", "m_PathID": 275 },
+		"others/gamebuildmode": { "m_Collection": "globalgamemanagers", "m_PathID": 276 },
+		"others/hapticfeedbackcontroller": { "m_Collection": "globalgamemanagers", "m_PathID": 277 },
+		"others/mainsettingsmodel": { "m_Collection": "globalgamemanagers", "m_PathID": 17 },
+		"others/mixedrealitysettings": { "m_Collection": "globalgamemanagers", "m_PathID": 278 },
+		"others/simpletextureloader": { "m_Collection": "globalgamemanagers", "m_PathID": 279 },
+		"others/tutorialmodechecker": { "m_Collection": "globalgamemanagers", "m_PathID": 280 },
+		"ovrmrcameraframe": { "m_Collection": "globalgamemanagers", "m_PathID": 28 },
+		"ovrmrcameraframelit": { "m_Collection": "globalgamemanagers", "m_PathID": 43 },
+		"ovrmrchromakey": { "m_Collection": "globalgamemanagers", "m_PathID": 69 },
+		"ovrmrclipplane": { "m_Collection": "globalgamemanagers", "m_PathID": 27 },
+		"ovrmrunlit": { "m_Collection": "globalgamemanagers", "m_PathID": 39 },
+		"ovrmrunlittransparent": { "m_Collection": "globalgamemanagers", "m_PathID": 29 },
+		"sceneinfo/beatmapeditorsceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 281 },
+		"sceneinfo/bigmirrorenvironmentsceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 282 },
+		"sceneinfo/defaultenvironmentsceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 283 },
+		"sceneinfo/gamecoresceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 284 },
+		"sceneinfo/initsceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 18 },
+		"sceneinfo/mainmenusceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 19 },
+		"sceneinfo/mixedrealitysetupsceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 286 },
+		"sceneinfo/mrsetupsceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 285 },
+		"sceneinfo/niceenvironmentsceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 287 },
+		"sceneinfo/standardlevelloadersceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 20 },
+		"sceneinfo/standardlevelsceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 288 },
+		"sceneinfo/triangleenvironmentsceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 289 },
+		"sceneinfo/tutorialenvironmentsceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 290 },
+		"sceneinfo/tutoriallevelsceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 291 },
+		"sceneinfo/tutorialloadersceneinfo": { "m_Collection": "globalgamemanagers", "m_PathID": 21 },
+		"scenesetup/beatmapeditorscenesetupdata": { "m_Collection": "globalgamemanagers", "m_PathID": 292 },
+		"scenesetup/initscenesetupdata": { "m_Collection": "globalgamemanagers", "m_PathID": 22 },
+		"scenesetup/maingamescenesetupdata": { "m_Collection": "globalgamemanagers", "m_PathID": 23 },
+		"scenesetup/menuscenesetupdata": { "m_Collection": "globalgamemanagers", "m_PathID": 24 },
+		"scenesetup/tutorialscenesetupdata": { "m_Collection": "globalgamemanagers", "m_PathID": 25 },
+		"shaders/tmp_bitmap": { "m_Collection": "globalgamemanagers", "m_PathID": 54 },
+		"shaders/tmp_bitmap-mobile": { "m_Collection": "globalgamemanagers", "m_PathID": 49 },
+		"shaders/tmp_sdf": { "m_Collection": "globalgamemanagers", "m_PathID": 52 },
+		"shaders/tmp_sdf overlay": { "m_Collection": "globalgamemanagers", "m_PathID": 33 },
+		"shaders/tmp_sdf ztestalways": { "m_Collection": "globalgamemanagers", "m_PathID": 37 },
+		"shaders/tmp_sdf-mobile": { "m_Collection": "globalgamemanagers", "m_PathID": 47 },
+		"shaders/tmp_sdf-mobile masking": { "m_Collection": "globalgamemanagers", "m_PathID": 44 },
+		"shaders/tmp_sdf-mobile overlay": { "m_Collection": "globalgamemanagers", "m_PathID": 40 },
+		"shaders/tmp_sdf-mobile zeroalphawrite": { "m_Collection": "globalgamemanagers", "m_PathID": 45 },
+		"shaders/tmp_sdf-surface": { "m_Collection": "globalgamemanagers", "m_PathID": 38 },
+		"shaders/tmp_sdf-surface-mobile": { "m_Collection": "globalgamemanagers", "m_PathID": 31 },
+		"shaders/tmp_sprite": { "m_Collection": "globalgamemanagers", "m_PathID": 30 },
+		"shaders/tmpro": { "m_Collection": "globalgamemanagers", "m_PathID": 68 },
+		"shaders/tmpro_properties": { "m_Collection": "globalgamemanagers", "m_PathID": 70 },
+		"shaders/tmpro_surface": { "m_Collection": "globalgamemanagers", "m_PathID": 71 },
+		"songeventsdrawstyles/eventsetdrawstyle": { "m_Collection": "globalgamemanagers", "m_PathID": 114 },
+		"songeventsdrawstyles/laserseventdrawstyle": { "m_Collection": "globalgamemanagers", "m_PathID": 115 },
+		"songeventsdrawstyles/lightseventdrawstyle": { "m_Collection": "globalgamemanagers", "m_PathID": 116 },
+		"songeventsdrawstyles/ringsposeventdrawstyle": { "m_Collection": "globalgamemanagers", "m_PathID": 117 },
+		"songeventsdrawstyles/ringsroteventdrawstyle": { "m_Collection": "globalgamemanagers", "m_PathID": 118 },
+		"sprite assets/default sprite asset": { "m_Collection": "globalgamemanagers", "m_PathID": 127 },
+		"sprite assets/emojione": { "m_Collection": "globalgamemanagers", "m_PathID": 128 },
+		"sprites/arrows": { "m_Collection": "globalgamemanagers", "m_PathID": 293 },
+		"steamvr_alphaout": { "m_Collection": "globalgamemanagers", "m_PathID": 51 },
+		"steamvr_clearall": { "m_Collection": "globalgamemanagers", "m_PathID": 46 },
+		"steamvr_colorout": { "m_Collection": "globalgamemanagers", "m_PathID": 26 },
+		"steamvr_externalcamera": { "m_Collection": "globalgamemanagers", "m_PathID": 100 },
+		"steamvr_fade": { "m_Collection": "globalgamemanagers", "m_PathID": 41 },
+		"steamvr_sphericalprojection": { "m_Collection": "globalgamemanagers", "m_PathID": 32 },
+		"style sheets/tmp default style sheet": { "m_Collection": "globalgamemanagers", "m_PathID": 129 },
+		"texture2d blit": { "m_Collection": "globalgamemanagers", "m_PathID": 42 },
+		"tmp settings": { "m_Collection": "globalgamemanagers", "m_PathID": 130 },
+		"ui/leftscreenuihierarchyrebuilddatamanager": { "m_Collection": "globalgamemanagers", "m_PathID": 294 },
+		"ui/mainscreenuihierarchyrebuilddatamanager": { "m_Collection": "globalgamemanagers", "m_PathID": 295 },
+		"ui/rightscreenuihierarchyrebuilddatamanager": { "m_Collection": "globalgamemanagers", "m_PathID": 296 },
+		"underlay impostor": { "m_Collection": "globalgamemanagers", "m_PathID": 53 },
+		"underlay transparent occluder": { "m_Collection": "globalgamemanagers", "m_PathID": 50 },
+		"unlit transparent color": { "m_Collection": "globalgamemanagers", "m_PathID": 48 },
+		"variables/beatmapeditor.beatsperminute": { "m_Collection": "globalgamemanagers", "m_PathID": 119 },
+		"variables/beatmapeditor.levelauthorname": { "m_Collection": "globalgamemanagers", "m_PathID": 120 },
+		"variables/beatmapeditor.shuffleperiod": { "m_Collection": "globalgamemanagers", "m_PathID": 121 },
+		"variables/beatmapeditor.shufflestrength": { "m_Collection": "globalgamemanagers", "m_PathID": 122 },
+		"variables/beatmapeditor.songauthorname": { "m_Collection": "globalgamemanagers", "m_PathID": 123 },
+		"variables/beatmapeditor.songname": { "m_Collection": "globalgamemanagers", "m_PathID": 124 },
+		"variables/beatmapeditor.songsubname": { "m_Collection": "globalgamemanagers", "m_PathID": 125 },
+		"variables/beatmapeditor.songtimeoffset": { "m_Collection": "globalgamemanagers", "m_PathID": 126 }
+	},
+	"m_DependentAssets": [
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 6 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 7 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 47 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 33 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 47 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 37 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 25 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 50 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 47 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 52 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 7 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 6 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 53 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 146 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 217 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 8 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 77 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 154 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 223 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 17 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 183 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 182 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 179 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 278 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 180 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 184 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 17 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 99 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 17 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 98 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 17 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 97 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 17 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 83 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 240 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 622 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 19 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 22 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 23 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 25 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 24 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 244 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 566 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 279 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 108 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 461 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 261 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 264 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 258 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 249 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 177 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 21 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 25 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 126 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 281 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 23 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 292 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 16 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 82 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 225 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 275 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 374 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 192 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 57 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 92 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 287 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 241 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 244 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 243 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 242 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 268 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 18 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 84 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 216 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 278 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 181 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 188 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 20 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 234 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 137 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 60 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 87 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 289 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 236 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 256 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 828 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 170 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 286 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 181 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 214 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 648 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 90 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 117 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 947 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 261 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 269 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 193 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 8 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 272 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 173 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 193 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 374 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 194 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 286 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 182 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 135 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 196 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 18 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 284 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 126 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 919 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 120 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 828 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 164 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 828 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 162 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 435 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 19 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 178 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 22 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 91 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 218 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 230 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 207 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 133 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 430 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 269 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 270 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 271 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 272 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 273 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 274 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 62 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 76 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 283 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 231 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 230 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 229 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 228 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 266 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 224 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 142 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 964 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 20 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 23 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 102 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 299 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 100 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 103 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 300 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 298 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 101 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 241 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 374 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 10 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 461 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 253 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 255 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 254 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 256 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 257 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 250 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 197 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 64 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 94 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 283 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 213 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 212 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 210 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 209 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 261 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 232 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 236 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 290 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 143 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 5 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 88 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 286 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 180 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 237 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 259 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 173 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 615 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 14 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 828 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 167 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 278 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 180 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 185 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 155 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 714 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 294 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 491 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 279 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 988 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 18 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 22 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 157 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 283 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 275 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 251 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 250 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 252 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 655 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 131 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 105 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 5 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 95 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 210 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 139 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 714 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 296 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 286 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 183 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 291 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 947 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 261 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 270 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 222 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 148 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 289 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 648 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 96 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 118 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 278 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 180 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 186 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 221 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 664 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 15 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 209 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 106 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 947 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 264 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 273 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 156 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 109 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 144 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 211 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 422 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 12 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 288 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 145 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 259 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 172 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 7 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 75 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 67 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 72 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 282 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 227 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 255 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 205 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 235 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 5 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 93 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 198 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 12 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 80 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 5 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 72 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 994 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 107 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 733 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 176 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 175 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 174 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 57 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 92 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 283 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 245 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 257 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 213 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 149 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 696 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 17 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 277 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 136 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 5 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 89 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 947 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 264 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 272 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 243 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 150 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 231 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 226 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 1091 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 2 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 14 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 128 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 10 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 78 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 215 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 1091 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 4 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 17 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 83 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 97 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 99 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 98 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 293 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 138 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 5 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 76 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 156 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 919 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 123 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 59 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 89 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 287 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 240 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 239 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 238 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 237 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 265 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 5 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 85 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 5 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 87 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 282 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 433 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 2 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 9 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 290 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 124 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 125 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 123 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 120 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 112 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 648 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 82 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 115 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 6 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 73 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 714 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 295 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 828 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 160 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 1091 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 1 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 9 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 128 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 127 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 844 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 104 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 15 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 81 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 646 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 176 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 343 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 280 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 202 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 730 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 116 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 118 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 117 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 115 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 73 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 80 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 91 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 78 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 77 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 114 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 919 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 124 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 591 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 106 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 105 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 108 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 112 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 111 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 104 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 113 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 281 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 828 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 165 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 239 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 592 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 165 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 132 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 158 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 646 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 177 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 61 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 95 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 287 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 202 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 203 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 259 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 5 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 92 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 65 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 74 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 282 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 205 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 208 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 207 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 206 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 260 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 151 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 208 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 828 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 169 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 286 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 67 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 72 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 282 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 226 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 225 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 224 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 223 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 264 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 828 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 161 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 220 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 19 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 223 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 140 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 284 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 828 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 166 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 646 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 175 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 285 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 199 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 278 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 181 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 191 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 869 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 11 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 828 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 163 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 20 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 86 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 284 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 119 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 278 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 181 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 190 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 824 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 195 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 201 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 919 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 125 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 11 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 79 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 924 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 131 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 461 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 258 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 264 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 267 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 266 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 263 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 262 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 268 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 261 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 265 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 260 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 259 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 251 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 301 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 110 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 278 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 180 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 187 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 206 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 404 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 276 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 66 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 88 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 283 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 219 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 222 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 221 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 220 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 263 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 219 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 153 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 594 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 8 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 245 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 64 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 94 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 283 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 214 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 254 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 58 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 93 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 283 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 200 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 253 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 105 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 297 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 128 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 129 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 56 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 55 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 130 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 63 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 85 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 289 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 215 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 218 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 217 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 216 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 262 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 241 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 119 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 126 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 122 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 121 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 111 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 134 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 284 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 122 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 147 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 21 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 600 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 278 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 520 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 16 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 461 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 258 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 264 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 267 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 266 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 263 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 262 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 268 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 261 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 265 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 260 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 248 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 5 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 74 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 200 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 393 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 287 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 278 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 181 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 189 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 91 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 3 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 24 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 297 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 45 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 24 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 3 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 227 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 209 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 828 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 159 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 5 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 94 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 204 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 284 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 121 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 155 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 132 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 247 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 58 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 93 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 283 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 199 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 198 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 197 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 196 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 258 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 233 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 242 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 238 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 203 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 141 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 229 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 21 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 90 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 947 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 261 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 271 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 648 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 84 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 86 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 75 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 81 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 79 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 116 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 18 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 129 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 246 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 974 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 171 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 225 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 625 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 152 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 828 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 168 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 23 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 96 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 212 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 906 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 228 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 401 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 60 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 87 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 289 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 235 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 234 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 233 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 232 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 267 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 427 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 17 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 30 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 14 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 2 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 30 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 9 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 1 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 30 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 17 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 4 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 100 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 103 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 102 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 100 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 904 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 101 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 299 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 101 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 102 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 103 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 101 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 826 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 300 }
+		},
+		{
+			"m_Dependencies": [
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 101 },
+				{ "m_Collection": "globalgamemanagers", "m_PathID": 861 }
+			],
+			"m_Object": { "m_Collection": "globalgamemanagers", "m_PathID": 298 }
+		}
+	],
+	"m_HideFlags": 0
+}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7925b443d3e85d18509a22f98b267659, type: 3}
+  m_Name: GameBPPP
+  m_EditorClassIdentifier: 
+  bloom1KernelSize: 6
+  bloom1Boost: -0.01
+  bloom2KernelSize: 3
+  bloom2Boost: 0
+  bloom2Alpha: 0.5
+  downsample: 0
+  textureWidth: 256
+  textureHeight: 256
+  textureToScreenRatio: 0.8
+  linesWidth: 0.025
+  linesFogDensity: 0.002
+  lineIntensityMultiplier: 1
+  fullIntensityOffset: 0
+  transformHDRToLDRParam: 1
+  linesTexture: {fileID: 2800000, guid: 254dd5351f5d54b45b6ea111cd28f655, type: 3}

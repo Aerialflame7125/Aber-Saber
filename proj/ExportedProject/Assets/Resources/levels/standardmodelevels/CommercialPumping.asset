@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad14bc8b86f67bd794abb71981003f32, type: 3}
+  m_Name: CommercialPumping
+  m_EditorClassIdentifier: 
+  _levelID: CommercialPumping
+  _songName: Commercial Pumping
+  _songSubName: 
+  _songAuthorName: Jaroslav Beck
+  _audioClip: {fileID: 8300000, guid: 34fe85e5199ede24db9a3277e1865bf6, type: 3}
+  _beatsPerMinute: 105
+  _songTimeOffset: 0
+  _shuffle: 0
+  _shufflePeriod: 0
+  _previewStartTime: 87
+  _previewDuration: 12
+  _coverImage: {fileID: 21300000, guid: 11e7bb6a6eb0e884bb4945002147d84e, type: 2}
+  _environmentSceneInfo: {fileID: 11400000, guid: a3ab5c648fb18344ebcf2fb3bff264c8,
+    type: 2}
+  _difficultyBeatmaps:
+  - _difficulty: 0
+    _difficultyRank: 2
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: ec73346d19b7c584b88d79ca9eced4cf, type: 2}
+  - _difficulty: 1
+    _difficultyRank: 5
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: 3f22a125fc63cd346b10c135407c4706, type: 2}
+  - _difficulty: 2
+    _difficultyRank: 7
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: a0bf9a91824343e4ea7925d9300bb4eb, type: 2}
+  - _difficulty: 3
+    _difficultyRank: 9
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: d18c35716c21ca04ca35012081edfa2f, type: 2}
+  _sortedDifficultyBeatmaps:
+  - _difficulty: 0
+    _difficultyRank: 2
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: ec73346d19b7c584b88d79ca9eced4cf, type: 2}
+  - _difficulty: 1
+    _difficultyRank: 5
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: 3f22a125fc63cd346b10c135407c4706, type: 2}
+  - _difficulty: 2
+    _difficultyRank: 7
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: a0bf9a91824343e4ea7925d9300bb4eb, type: 2}
+  - _difficulty: 3
+    _difficultyRank: 9
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: d18c35716c21ca04ca35012081edfa2f, type: 2}

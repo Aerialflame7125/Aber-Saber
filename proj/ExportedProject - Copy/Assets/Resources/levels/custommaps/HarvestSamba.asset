@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad14bc8b86f67bd794abb71981003f32, type: 3}
+  m_Name: HarvestSamba
+  m_EditorClassIdentifier: 
+  _levelID: Level16
+  _songName: Harvest Samba
+  _songSubName: bytesy idfk
+  _songAuthorName: Voltage, Aquaflee, OlbmaPhlee
+  _audioClip: {fileID: 8300000, guid: 386c072b8b530e64793ac3cec588e451, type: 3}
+  _beatsPerMinute: 164
+  _songTimeOffset: -0.56
+  _shuffle: 0
+  _shufflePeriod: 0.5
+  _previewStartTime: 80
+  _previewDuration: 10
+  _coverImage: {fileID: 21300000, guid: 7cb069f710fd1b544a86d436aa0a0f61, type: 3}
+  _environmentSceneInfo: {fileID: 11400000, guid: e9eafb961deab054f80d35b3d0b6cc7c,
+    type: 2}
+  _difficultyBeatmaps:
+  - _difficulty: 4
+    _difficultyRank: 3
+    _noteJumpMovementSpeed: 13.565
+    _beatmapData: {fileID: 11400000, guid: a9806ce2b5c70334c857897bbc54d834, type: 2}

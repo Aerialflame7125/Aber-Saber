@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bce4e93de5285b7d47f3e6940a975c1d, type: 3}
+  m_Name: OneSaberLevelsCollection
+  m_EditorClassIdentifier:
+  _levels:
+  - {fileID: 11400000, guid: 5351783a20a6c53438f70bb9d445a02e, type: 2}
+  - {fileID: 11400000, guid: 4dc6560dbdcb51c4185db83db54788cb, type: 2}
+  - {fileID: 11400000, guid: bb88e771a70f3e24a93008fd7aa5253a, type: 2}
+  - {fileID: 11400000, guid: 251dbc8fde8e3554795590a9b056e128, type: 2}
+  - {fileID: 11400000, guid: 7fb5ff5567b540840ac2f337c614effe, type: 2}

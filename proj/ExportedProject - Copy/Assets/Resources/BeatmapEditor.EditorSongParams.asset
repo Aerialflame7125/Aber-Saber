@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52c35fe3ae4967f216e510094d423d2e, type: 3}
+  m_Name: BeatmapEditor.EditorSongParams
+  m_EditorClassIdentifier:
+  _beatsPerMinute: {fileID: 11400000, guid: 31b2593b881d2da4bbff53cdde96ec77, type: 2}
+  _songTimeOffset: {fileID: 11400000, guid: bd6d6821655d0c34499a4bdbc8c109bd, type: 2}
+  _shuffleStrength: {fileID: 11400000, guid: 7f8c4006512288d44ae62ee0c3ecce06, type: 2}
+  _shufflePeriod: {fileID: 11400000, guid: 1335b84eba0036f49a83b1bac309c783, type: 2}

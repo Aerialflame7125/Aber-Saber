@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cbc22db880f7d51ec37d034cbe7d11d, type: 3}
+  m_Name: BloomPrePassGraphicsSettingsPresets
+  m_EditorClassIdentifier:
+  presets:
+  - presetName: Low
+    bloom1KernelSize: 4
+    bloom1Boost: -0.015
+    bloom2KernelSize: 1
+    bloom2Boost: 0
+    bloom2Alpha: 0.5
+    downsample: 0
+    textureWidth: 128
+    textureHeight: 128
+  - presetName: High
+    bloom1KernelSize: 6
+    bloom1Boost: -0.01
+    bloom2KernelSize: 3
+    bloom2Boost: 0
+    bloom2Alpha: 0.5
+    downsample: 0
+    textureWidth: 256
+    textureHeight: 256

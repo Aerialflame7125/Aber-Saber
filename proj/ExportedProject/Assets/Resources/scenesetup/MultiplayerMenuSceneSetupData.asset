@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f55ad489618eb4eec49271e1b7fe5ac, type: 3}
+  m_Name: MultiplayerMenuSceneSetupData
+  m_EditorClassIdentifier: 
+  _sceneInfo: {fileID: 11400000, guid: 13dd296c9a85ebd4fb8b96f0ca14f083, type: 2}
+  _initSceneSetupData: {fileID: 11400000, guid: 24c84ab08b8f91f4f997a45796adb27f,
+    type: 2}
+  _mainGameSceneSetupData: {fileID: 11400000, guid: 07ae97810793e434dbbadcb580cba624,
+    type: 2}
+  _tutorialSceneSetupData: {fileID: 11400000, guid: 6474697f9cbf1774dbd704ecaa166b5c,
+    type: 2}

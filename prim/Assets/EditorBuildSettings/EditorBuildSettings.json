@@ -1,0 +1,138 @@
+{
+	"m_ConfigObjects": {
+		
+	},
+	"m_HideFlags": 0,
+	"m_Scenes": [
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 1264555413,
+				"m_Data_1_": 1326872097,
+				"m_Data_2_": 3092650679,
+				"m_Data_3_": 4149129883
+			},
+			"m_Path": "Assets/Scenes/Init.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 3508736213,
+				"m_Data_1_": 1305444181,
+				"m_Data_2_": 4138069659,
+				"m_Data_3_": 2650789835
+			},
+			"m_Path": "Assets/Scenes/Menu.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 1994197083,
+				"m_Data_1_": 1170976661,
+				"m_Data_2_": 1505541249,
+				"m_Data_3_": 1536299608
+			},
+			"m_Path": "Assets/Scenes/StandardLevelLoader.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 596836681,
+				"m_Data_1_": 1196701308,
+				"m_Data_2_": 3296789634,
+				"m_Data_3_": 1549942984
+			},
+			"m_Path": "Assets/Scenes/TutorialLevelLoader.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 3343287737,
+				"m_Data_1_": 1113590637,
+				"m_Data_2_": 1722820492,
+				"m_Data_3_": 1411979002
+			},
+			"m_Path": "Assets/Scenes/GameCore.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 2359324012,
+				"m_Data_1_": 1156520645,
+				"m_Data_2_": 4005479609,
+				"m_Data_3_": 2318669439
+			},
+			"m_Path": "Assets/Scenes/StandardLevel.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 1169750382,
+				"m_Data_1_": 1299042893,
+				"m_Data_2_": 605487039,
+				"m_Data_3_": 2309887295
+			},
+			"m_Path": "Assets/Scenes/TutorialLevel.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 1159293139,
+				"m_Data_1_": 1224275657,
+				"m_Data_2_": 402753449,
+				"m_Data_3_": 1860242662
+			},
+			"m_Path": "Assets/Scenes/Environments/NiceEnvironment.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 3673517626,
+				"m_Data_1_": 1229897715,
+				"m_Data_2_": 1961829788,
+				"m_Data_3_": 1307303461
+			},
+			"m_Path": "Assets/Scenes/Environments/DefaultEnvironment.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 3950810509,
+				"m_Data_1_": 1250787249,
+				"m_Data_2_": 2003921283,
+				"m_Data_3_": 526181220
+			},
+			"m_Path": "Assets/Scenes/Environments/BigMirrorEnvironment.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 3507268517,
+				"m_Data_1_": 1241554303,
+				"m_Data_2_": 2272370350,
+				"m_Data_3_": 281344736
+			},
+			"m_Path": "Assets/Scenes/Environments/TriangleEnvironment.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 523758920,
+				"m_Data_1_": 1202453628,
+				"m_Data_2_": 3826006173,
+				"m_Data_3_": 3304954858
+			},
+			"m_Path": "Assets/Scenes/Environments/TutorialEnvironment.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 2652426574,
+				"m_Data_1_": 1310813744,
+				"m_Data_2_": 293057465,
+				"m_Data_3_": 2114515754
+			},
+			"m_Path": "Assets/Scenes/MixedRealitySetup.unity"
+		}
+	]
+}

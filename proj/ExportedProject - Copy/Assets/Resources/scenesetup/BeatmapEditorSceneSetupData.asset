@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0636d312e9dde8fc038de653806043e6, type: 3}
+  m_Name: BeatmapEditorSceneSetupData
+  m_EditorClassIdentifier:
+  _sceneInfo: {fileID: 11400000, guid: c8ac46cf28db1884087bcc8dafdf5f07, type: 2}
+  _mainGameSceneSetupData: {fileID: 11400000, guid: 07ae97810793e434dbbadcb580cba624, type: 2}

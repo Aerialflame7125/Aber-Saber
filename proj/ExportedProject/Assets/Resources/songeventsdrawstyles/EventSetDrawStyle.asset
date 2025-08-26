@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d674afab52404698e2284b90d0efaf3, type: 3}
+  m_Name: EventSetDrawStyle
+  m_EditorClassIdentifier:
+  _events:
+  - {fileID: 11400000, guid: 827b1e20b11f0214f99bc273100064e4, type: 2}
+  - {fileID: 11400000, guid: 827b1e20b11f0214f99bc273100064e4, type: 2}
+  - {fileID: 11400000, guid: 827b1e20b11f0214f99bc273100064e4, type: 2}
+  - {fileID: 11400000, guid: 827b1e20b11f0214f99bc273100064e4, type: 2}
+  - {fileID: 11400000, guid: 827b1e20b11f0214f99bc273100064e4, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: fa257153f39aaea42818e6221bfb9927, type: 2}
+  - {fileID: 11400000, guid: 61aaa84dc547c644d80d40ea14182716, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 103a6072cd003ab49973398d9ba09e61, type: 2}
+  - {fileID: 11400000, guid: 103a6072cd003ab49973398d9ba09e61, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  _overrideImages:
+  - {fileID: 21300000, guid: ee565e73a434dbd44acdd9ae80c192ce, type: 2}
+  - {fileID: 21300000, guid: 291eaa8f5a65c7040a9f76406764e65b, type: 2}
+  - {fileID: 21300000, guid: 9b07c27991d48894c9f800eb06b56528, type: 2}
+  - {fileID: 21300000, guid: 5072c453fdfff984e968884903e5ee85, type: 2}
+  - {fileID: 21300000, guid: 074da930988ee0a4a8457ec26b016c0c, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad14bc8b86f67bd794abb71981003f32, type: 3}
+  m_Name: BalearicPumping
+  m_EditorClassIdentifier:
+  _levelID: Level8
+  _songName: Balearic Pumping
+  _songSubName:
+  _songAuthorName: Jaroslav Beck
+  _audioClip: {fileID: 8300000, guid: 0341220209a95ef4093866223f940301, type: 3}
+  _beatsPerMinute: 111
+  _songTimeOffset: 0
+  _shuffle: 0
+  _shufflePeriod: 0
+  _previewStartTime: 87
+  _previewDuration: 12
+  _coverImage: {fileID: 21300000, guid: 432b12858d062ab4984bf0e480aa06a9, type: 2}
+  _environmentSceneInfo: {fileID: 11400000, guid: d721b08049f39de47a89a66d6c0573fd, type: 2}
+  _difficultyBeatmaps:
+  - _difficulty: 0
+    _difficultyRank: 2
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: 0495979aeb120b1489c3aa5cf3be8533, type: 2}
+  - _difficulty: 1
+    _difficultyRank: 5
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: d30f584dfccb4e140b5f780538ac8010, type: 2}
+  - _difficulty: 2
+    _difficultyRank: 7
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: 500f1e0acdcee0d49970688ff6150475, type: 2}
+  - _difficulty: 3
+    _difficultyRank: 9
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: 4f5dc8efdc68dc74e9051872bfd6bd03, type: 2}

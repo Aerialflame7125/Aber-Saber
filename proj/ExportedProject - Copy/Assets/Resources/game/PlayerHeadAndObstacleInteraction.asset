@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 190a16751d7892d9a903058e708d5aa8, type: 3}
+  m_Name: PlayerHeadAndObstacleInteraction
+  m_EditorClassIdentifier:
+  _playerControllerProvider: {fileID: 11400000, guid: 84079400175c31a4b82202555b5d38e7, type: 2}
+  _activeObstaclesManager: {fileID: 11400000, guid: 05cc81645f70e7c45b96db7345e195fc, type: 2}

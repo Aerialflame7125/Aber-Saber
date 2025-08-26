@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad14bc8b86f67bd794abb71981003f32, type: 3}
+  m_Name: Example
+  m_EditorClassIdentifier: 
+  _levelID: Level13
+  _songName: a
+  _songSubName: b
+  _songAuthorName: c
+  _audioClip: {fileID: 8300000, guid: c7eaa646cad16fb4fa17f0873f53fd4e, type: 3}
+  _beatsPerMinute: 1
+  _songTimeOffset: 0
+  _shuffle: 0
+  _shufflePeriod: 1
+  _previewStartTime: 1
+  _previewDuration: 10
+  _coverImage: {fileID: 21300000, guid: 365d07605a8830f4ba686c870773d4c6, type: 2}
+  _environmentSceneInfo: {fileID: 11400000, guid: e9eafb961deab054f80d35b3d0b6cc7c,
+    type: 2}
+  _difficultyBeatmaps:
+  - _difficulty: 0
+    _difficultyRank: 3
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: 2325b5d5675e2fc4ea3c5bb317ef012b, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bce4e93de5285b7d47f3e6940a975c1d, type: 3}
+  m_Name: ArcadeLevelsCollection
+  m_EditorClassIdentifier:
+  _levels:
+  - {fileID: 11400000, guid: 166a08c5220b722499fca12ec61a5f70, type: 2}
+  - {fileID: 11400000, guid: 70ea086815287e44d94de8e17f704a8c, type: 2}
+  - {fileID: 11400000, guid: 9be0b102987b5084c90953a54138225c, type: 2}
+  - {fileID: 11400000, guid: 2af77511f5ff6cb46b498a9d255235ae, type: 2}
+  - {fileID: 11400000, guid: c60c93250ef50d74799d8bc79a5d7090, type: 2}
+  - {fileID: 11400000, guid: bf133816a4174fe418d2e52fc8dc812a, type: 2}
+  - {fileID: 11400000, guid: 31079cf833042eb49914f5f2b0e70530, type: 2}
+  - {fileID: 11400000, guid: da9bee9d480ebf04081d91d33e90a1f6, type: 2}
+  - {fileID: 11400000, guid: 3884c2e235b291e4ca3ef54c9fc36886, type: 2}
+  - {fileID: 11400000, guid: d4c5a97fb2c8edb4493a1d2c90b7055a, type: 2}

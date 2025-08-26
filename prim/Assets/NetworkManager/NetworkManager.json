@@ -1,0 +1,331 @@
+{
+	"m_AssetToPrefab": [
+		{
+			"Key": {
+				"m_Data_0_": 145195655,
+				"m_Data_1_": 1187266197,
+				"m_Data_2_": 513525951,
+				"m_Data_3_": 1409840379
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 17 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 252328224,
+				"m_Data_1_": 1330929793,
+				"m_Data_2_": 2354175905,
+				"m_Data_3_": 552112139
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 73 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 315578937,
+				"m_Data_1_": 1109795685,
+				"m_Data_2_": 3797867656,
+				"m_Data_3_": 2295632543
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 102 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 874074806,
+				"m_Data_1_": 1154480396,
+				"m_Data_2_": 1586826663,
+				"m_Data_3_": 2566688139
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 100 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 987225066,
+				"m_Data_1_": 1217878875,
+				"m_Data_2_": 1375906994,
+				"m_Data_3_": 3634068884
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 26 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1148097439,
+				"m_Data_1_": 1325125878,
+				"m_Data_2_": 2701564560,
+				"m_Data_3_": 2405432406
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 74 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1148287299,
+				"m_Data_1_": 1079704780,
+				"m_Data_2_": 4060033939,
+				"m_Data_3_": 2637315627
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 167 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1204359105,
+				"m_Data_1_": 1195107123,
+				"m_Data_2_": 68850589,
+				"m_Data_3_": 531903405
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 103 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1233628539,
+				"m_Data_1_": 1204919335,
+				"m_Data_2_": 832970666,
+				"m_Data_3_": 1551385195
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 166 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1501947865,
+				"m_Data_1_": 1245541518,
+				"m_Data_2_": 1241485968,
+				"m_Data_3_": 1888091608
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 29 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1690801115,
+				"m_Data_1_": 1163004145,
+				"m_Data_2_": 3321712266,
+				"m_Data_3_": 2848559334
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 132 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1696029955,
+				"m_Data_1_": 3175722346,
+				"m_Data_2_": 115793581,
+				"m_Data_3_": 1202741974
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 84 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1744606384,
+				"m_Data_1_": 1334650751,
+				"m_Data_2_": 356221621,
+				"m_Data_3_": 1816984012
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 95 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 2090711657,
+				"m_Data_1_": 2235801137,
+				"m_Data_2_": 837573039,
+				"m_Data_3_": 3607470068
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 75 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 2167839467,
+				"m_Data_1_": 1302044064,
+				"m_Data_2_": 3688356483,
+				"m_Data_3_": 3121186602
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 91 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 2370800932,
+				"m_Data_1_": 1204597092,
+				"m_Data_2_": 2480436908,
+				"m_Data_3_": 142597210
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 150 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 2469546622,
+				"m_Data_1_": 273079112,
+				"m_Data_2_": 1187936696,
+				"m_Data_3_": 2483470381
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 76 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 2502197277,
+				"m_Data_1_": 1110216590,
+				"m_Data_2_": 3668214971,
+				"m_Data_3_": 3708424054
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 77 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 2633276764,
+				"m_Data_1_": 1317495620,
+				"m_Data_2_": 4067102645,
+				"m_Data_3_": 3697176339
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 3 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 2643722907,
+				"m_Data_1_": 1269791908,
+				"m_Data_2_": 396229769,
+				"m_Data_3_": 320171642
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 142 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 2654198594,
+				"m_Data_1_": 1221862612,
+				"m_Data_2_": 1896312481,
+				"m_Data_3_": 623170055
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 122 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3085774385,
+				"m_Data_1_": 1260460894,
+				"m_Data_2_": 3108964779,
+				"m_Data_3_": 4067505603
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 163 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3309046718,
+				"m_Data_1_": 1263755516,
+				"m_Data_2_": 1458286500,
+				"m_Data_3_": 846948177
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 25 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3393306018,
+				"m_Data_1_": 1194096453,
+				"m_Data_2_": 744993947,
+				"m_Data_3_": 1642296360
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 152 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3458134847,
+				"m_Data_1_": 1294114494,
+				"m_Data_2_": 1880113539,
+				"m_Data_3_": 710758508
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 149 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3634832568,
+				"m_Data_1_": 1341906106,
+				"m_Data_2_": 3971361670,
+				"m_Data_3_": 319350664
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 133 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3756202562,
+				"m_Data_1_": 1085283136,
+				"m_Data_2_": 1131817124,
+				"m_Data_3_": 2322042473
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 27 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3914947334,
+				"m_Data_1_": 1278024041,
+				"m_Data_2_": 267215792,
+				"m_Data_3_": 1577754258
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 96 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3926240058,
+				"m_Data_1_": 1160048836,
+				"m_Data_2_": 1772115370,
+				"m_Data_3_": 552093016
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 13 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 4009181817,
+				"m_Data_1_": 1140258743,
+				"m_Data_2_": 1981412503,
+				"m_Data_3_": 3299690090
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 140 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 4013066427,
+				"m_Data_1_": 1146070007,
+				"m_Data_2_": 3027839637,
+				"m_Data_3_": 3562116638
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 151 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 4026412240,
+				"m_Data_1_": 1086158725,
+				"m_Data_2_": 955574662,
+				"m_Data_3_": 3542841506
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 148 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 4064091602,
+				"m_Data_1_": 1327947898,
+				"m_Data_2_": 1778824377,
+				"m_Data_3_": 951601886
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 72 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 4124425001,
+				"m_Data_1_": 1274307430,
+				"m_Data_2_": 3977259951,
+				"m_Data_3_": 1389344354
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 154 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 4258456295,
+				"m_Data_1_": 1105731196,
+				"m_Data_2_": 1497706145,
+				"m_Data_3_": 4293614708
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 28 }
+		},
+		{
+			"Key": {
+				"m_Data_0_": 4265377589,
+				"m_Data_1_": 2051289069,
+				"m_Data_2_": 2840343209,
+				"m_Data_3_": 3259457011
+			},
+			"Value": { "m_Collection": "globalgamemanagers", "m_PathID": 24 }
+		}
+	],
+	"m_DebugLevel": 0,
+	"m_HideFlags": 0,
+	"m_Sendrate": 15
+}

@@ -1,0 +1,7 @@
+namespace System.Windows.Forms;
+
+/// <summary>Represents the method that will handle the <see cref="E:System.Windows.Forms.RichTextBox.ContentsResized" /> event of a <see cref="T:System.Windows.Forms.RichTextBox" />.</summary>
+/// <param name="sender">The source of the event.</param>
+/// <param name="e">A <see cref="T:System.Windows.Forms.ContentsResizedEventArgs" /> that contains the event data.</param>
+/// <filterpriority>2</filterpriority>
+public delegate void ContentsResizedEventHandler(object sender, ContentsResizedEventArgs e);

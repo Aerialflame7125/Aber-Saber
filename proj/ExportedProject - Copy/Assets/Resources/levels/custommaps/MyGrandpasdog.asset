@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad14bc8b86f67bd794abb71981003f32, type: 3}
+  m_Name: MyGrandpasdog
+  m_EditorClassIdentifier: 
+  _levelID: Level14
+  _songName: My grandpas dog bet my life savings on red #sigma
+  _songSubName: OverSaturated as \"we have tn-shi at home\"
+  _songAuthorName: oermergesghe
+  _audioClip: {fileID: 8300000, guid: 584b9fae0001bf94e904a3c0afcf2d1c, type: 3}
+  _beatsPerMinute: 200
+  _songTimeOffset: 0
+  _shuffle: 0
+  _shufflePeriod: 0.5
+  _previewStartTime: 168
+  _previewDuration: 20
+  _coverImage: {fileID: 21300000, guid: 519a93ac5a65dd34aa6c3ae81404f69c, type: 3}
+  _environmentSceneInfo: {fileID: 11400000, guid: e9eafb961deab054f80d35b3d0b6cc7c,
+    type: 2}
+  _difficultyBeatmaps:
+  - _difficulty: 4
+    _difficultyRank: 3
+    _noteJumpMovementSpeed: 19
+    _beatmapData: {fileID: 11400000, guid: 23abefd88d1473043b619030dd21277c, type: 2}

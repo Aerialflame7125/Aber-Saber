@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad14bc8b86f67bd794abb71981003f32, type: 3}
+  m_Name: Tequila
+  m_EditorClassIdentifier: 
+  _levelID: Level12
+  _songName: Tequila
+  _songSubName: Karaoke Bar
+  _songAuthorName: Andy Rowell
+  _audioClip: {fileID: 8300000, guid: b449d3b94bc5f94498356eb6e31eb239, type: 3}
+  _beatsPerMinute: 91
+  _songTimeOffset: 0
+  _shuffle: 0
+  _shufflePeriod: 0
+  _previewStartTime: 12
+  _previewDuration: 10
+  _coverImage: {fileID: 21300000, guid: 49f7ce09d09c20746a179aad126f8cd2, type: 3}
+  _environmentSceneInfo: {fileID: 11400000, guid: e9eafb961deab054f80d35b3d0b6cc7c,
+    type: 2}
+  _difficultyBeatmaps:
+  - _difficulty: 0
+    _difficultyRank: 3
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: 2325b5d5675e2fc4ea3c5bb317ef012b, type: 2}

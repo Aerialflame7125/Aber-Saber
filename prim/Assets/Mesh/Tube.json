@@ -1,0 +1,215 @@
+{
+	"m_BakedConvexCollisionMesh": "",
+	"m_BakedTriangleCollisionMesh": "",
+	"m_BindPose": [
+		
+	],
+	"m_BoneNameHashes": [
+		
+	],
+	"m_CompressedMesh": {
+		"m_BoneIndices": {
+			"m_BitSize": 0,
+			"m_Data": "",
+			"m_NumItems": 0
+		},
+		"m_FloatColors": {
+			"m_BitSize": 0,
+			"m_Data": "",
+			"m_NumItems": 0,
+			"m_Range": 0,
+			"m_Start": 0
+		},
+		"m_Normals": {
+			"m_BitSize": 0,
+			"m_Data": "",
+			"m_NumItems": 0,
+			"m_Range": 0,
+			"m_Start": 0
+		},
+		"m_NormalSigns": {
+			"m_BitSize": 0,
+			"m_Data": "",
+			"m_NumItems": 0
+		},
+		"m_Tangents": {
+			"m_BitSize": 0,
+			"m_Data": "",
+			"m_NumItems": 0,
+			"m_Range": 0,
+			"m_Start": 0
+		},
+		"m_TangentSigns": {
+			"m_BitSize": 0,
+			"m_Data": "",
+			"m_NumItems": 0
+		},
+		"m_Triangles": {
+			"m_BitSize": 0,
+			"m_Data": "",
+			"m_NumItems": 0
+		},
+		"m_UV": {
+			"m_BitSize": 0,
+			"m_Data": "",
+			"m_NumItems": 0,
+			"m_Range": 0,
+			"m_Start": 0
+		},
+		"m_UVInfo": 0,
+		"m_Vertices": {
+			"m_BitSize": 0,
+			"m_Data": "",
+			"m_NumItems": 0,
+			"m_Range": 0,
+			"m_Start": 0
+		},
+		"m_Weights": {
+			"m_BitSize": 0,
+			"m_Data": "",
+			"m_NumItems": 0
+		}
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "level5", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_IndexBuffer": "AAACAAEAAAADAAIAAgADAAQAAgAEAAUAAQACAAUAAQAFAAYAAAAHAAQAAAAEAAMABQAEAAcABQAHAAYAAAAGAAcAAAABAAYA",
+	"m_IndexFormat": 0,
+	"m_IsReadable": true,
+	"m_KeepIndices": true,
+	"m_KeepVertices": true,
+	"m_LocalAABB": {
+		"m_Center": {
+			"m_X": 0,
+			"m_Y": 0,
+			"m_Z": 0
+		},
+		"m_Extent": {
+			"m_X": 5,
+			"m_Y": 1000,
+			"m_Z": 5
+		}
+	},
+	"m_MeshCompression": 0,
+	"m_MeshOptimized": true,
+	"m_MeshUsageFlags": 0,
+	"m_Name": "Tube",
+	"m_PrefabInternal": { "m_Collection": "level5", "m_PathID": 0 },
+	"m_RootBoneNameHash": 0,
+	"m_Shapes": {
+		"m_Channels": [
+			
+		],
+		"m_FullWeights": [
+			
+		],
+		"m_Shapes": [
+			
+		],
+		"m_Vertices": [
+			
+		]
+	},
+	"m_Skin": [
+		
+	],
+	"m_SubMeshes": [
+		{
+			"m_BaseVertex": 0,
+			"m_FirstByte": 0,
+			"m_FirstVertex": 0,
+			"m_IndexCount": 36,
+			"m_LocalAABB": {
+				"m_Center": {
+					"m_X": 0,
+					"m_Y": 0.5,
+					"m_Z": 0
+				},
+				"m_Extent": {
+					"m_X": 1,
+					"m_Y": 0.5,
+					"m_Z": 1
+				}
+			},
+			"m_Topology": 0,
+			"m_VertexCount": 8
+		}
+	],
+	"m_VertexData": {
+		"m_Channels": [
+			{
+				"m_Dimension": 0,
+				"m_Format": 0,
+				"m_Offset": 0,
+				"m_Stream": 0
+			},
+			{
+				"m_Dimension": 0,
+				"m_Format": 0,
+				"m_Offset": 0,
+				"m_Stream": 0
+			},
+			{
+				"m_Dimension": 0,
+				"m_Format": 0,
+				"m_Offset": 0,
+				"m_Stream": 0
+			},
+			{
+				"m_Dimension": 0,
+				"m_Format": 0,
+				"m_Offset": 0,
+				"m_Stream": 0
+			},
+			{
+				"m_Dimension": 0,
+				"m_Format": 0,
+				"m_Offset": 0,
+				"m_Stream": 0
+			},
+			{
+				"m_Dimension": 0,
+				"m_Format": 0,
+				"m_Offset": 0,
+				"m_Stream": 0
+			},
+			{
+				"m_Dimension": 0,
+				"m_Format": 0,
+				"m_Offset": 0,
+				"m_Stream": 0
+			},
+			{
+				"m_Dimension": 0,
+				"m_Format": 0,
+				"m_Offset": 0,
+				"m_Stream": 0
+			},
+			{
+				"m_Dimension": 0,
+				"m_Format": 0,
+				"m_Offset": 0,
+				"m_Stream": 0
+			},
+			{
+				"m_Dimension": 0,
+				"m_Format": 0,
+				"m_Offset": 0,
+				"m_Stream": 0
+			},
+			{
+				"m_Dimension": 0,
+				"m_Format": 0,
+				"m_Offset": 0,
+				"m_Stream": 0
+			},
+			{
+				"m_Dimension": 0,
+				"m_Format": 0,
+				"m_Offset": 0,
+				"m_Stream": 0
+			}
+		],
+		"m_Data": "",
+		"m_VertexCount": 8
+	}
+}

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 045badd944d466d198e4a5ca0fb58c20, type: 3}
+  m_Name: Arrows
+  m_EditorClassIdentifier:
+  hashCode: -640776229
+  material: {fileID: 2100000, guid: 3a8c63ef9e8bf284b8b3559c388fefa5, type: 2}
+  materialHashCode: 0
+  spriteSheet: {fileID: 2800000, guid: 4fa7ad3e4990dd04ba4d32375d57ee2b, type: 3}
+  spriteInfoList:
+  - id: 0
+    x: 2
+    y: 130
+    width: 124
+    height: 124
+    xOffset: 0
+    yOffset: 100
+    xAdvance: 130
+    scale: 1
+    name: ArrowUp
+    hashCode: -844980932
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: 68f45c26791c533439dc0b7922583423, type: 2}
+  - id: 1
+    x: 130
+    y: 130
+    width: 124
+    height: 124
+    xOffset: 0
+    yOffset: 100
+    xAdvance: 130
+    scale: 1
+    name: ArrowRight
+    hashCode: -660643591
+    unicode: 8594
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: 525ddc34dc8164548b2a097badb7d134, type: 2}
+  - id: 2
+    x: 2
+    y: 0
+    width: 124
+    height: 128
+    xOffset: 0
+    yOffset: 100
+    xAdvance: 130
+    scale: 1
+    name: ArrowDown
+    hashCode: -1060723285
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: ecfc8b8cb3dc0db47a8854f446e1a950, type: 2}
+  - id: 3
+    x: 130
+    y: 2
+    width: 124
+    height: 124
+    xOffset: 0
+    yOffset: 100
+    xAdvance: 130
+    scale: 1
+    name: ArrowLeft
+    hashCode: -1060999358
+    unicode: 0
+    pivot: {x: -64, y: 64}
+    sprite: {fileID: 21300000, guid: 3bff5d3ac3d83ca4eb8f7d3ac5b82f4f, type: 2}
+  fallbackSpriteAssets: []

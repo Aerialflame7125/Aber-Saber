@@ -1,0 +1,15 @@
+namespace System.Windows.Forms;
+
+/// <summary>Specifies the locations of the tabs in a tab control.</summary>
+/// <filterpriority>2</filterpriority>
+public enum TabAlignment
+{
+	/// <summary>The tabs are located across the top of the control.</summary>
+	Top,
+	/// <summary>The tabs are located across the bottom of the control.</summary>
+	Bottom,
+	/// <summary>The tabs are located along the left edge of the control.</summary>
+	Left,
+	/// <summary>The tabs are located along the right edge of the control.</summary>
+	Right
+}

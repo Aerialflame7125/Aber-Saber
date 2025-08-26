@@ -1,0 +1,6901 @@
+{
+  "Files": [
+    {
+      "Name": "sharedassets10.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "Ring",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets6.assets",
+      "Assets": [
+        {
+          "PathID": 4,
+          "Name": "TutorialCircleGlow",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "TutorialCircle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "TutorialFinished",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7,
+          "Name": "Tutorial",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8,
+          "Name": "Crouch",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 9,
+          "Name": "ThatWasTooSoon",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 10,
+          "Name": "Perfect",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 11,
+          "Name": "Good",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 12,
+          "Name": "StepRight",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 13,
+          "Name": "WrongDirection",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 14,
+          "Name": "WaitForTheBeat",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 15,
+          "Name": "StepLeft",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 16,
+          "Name": "Nice",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 17,
+          "Name": "WrongColor",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 18,
+          "Name": "Awesome",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 19,
+          "Name": "Great",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 20,
+          "Name": "BombInstructions",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 21,
+          "Name": "TutorialIntroInstructions",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 22,
+          "Name": "NoteCutInstructions",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 23,
+          "Name": "DontTouchTheBomb",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 24,
+          "Name": "CutInAnyDirection",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 25,
+          "Name": "Excelent",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 26,
+          "Name": "CutHarder",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets0.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "BloomPrePassLine",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets11.assets",
+      "Assets": []
+    },
+    {
+      "Name": "sharedassets5.assets",
+      "Assets": [
+        {
+          "PathID": 16,
+          "Name": "ArrowGlow",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "FullCircle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "Ring",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "DisplacementNoise0",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "GradientStripe",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "Circle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "Fail",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "Teko-Medium SDF Atlas",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "Teko-Bold SDF Atlas",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "CubeNoteSmooth",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 26,
+          "Name": "Arrow",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 27,
+          "Name": "BombDebris",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 28,
+          "Name": "Bomb",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 29,
+          "Name": "BaseCube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 37,
+          "Name": "HitShortLeft1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 38,
+          "Name": "BadCut3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 39,
+          "Name": "BadCut0",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 40,
+          "Name": "HitLongLeft1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 41,
+          "Name": "HitShortRight3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 42,
+          "Name": "HitLongLeft2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 43,
+          "Name": "HitShortLeft3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 44,
+          "Name": "HitShortRight4",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 45,
+          "Name": "HitShortLeft4",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 46,
+          "Name": "HitShortRight5",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 47,
+          "Name": "BadCut2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 48,
+          "Name": "HitShortLeft5",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 49,
+          "Name": "HitLongRight3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 50,
+          "Name": "BadCut1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 51,
+          "Name": "HitLongRight4",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 52,
+          "Name": "HitLongLeft3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 53,
+          "Name": "HitLongRight5",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 54,
+          "Name": "HitLongLeft5",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 55,
+          "Name": "HitShortLeft2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 56,
+          "Name": "HitLongRight1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 57,
+          "Name": "HitLongLeft4",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 58,
+          "Name": "HitShortRight1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 59,
+          "Name": "HitLongRight2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 60,
+          "Name": "HitShortRight2",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets7.assets",
+      "Assets": [
+        {
+          "PathID": 8,
+          "Name": "FloorSmoother",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "SaberBurnMarkLine",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "Column",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 12,
+          "Name": "Car",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 13,
+          "Name": "Ring",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 14,
+          "Name": "Ring",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 15,
+          "Name": "RedLights",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 16,
+          "Name": "BlueLights",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets1.assets",
+      "Assets": [
+        {
+          "PathID": 25,
+          "Name": "SpriteAtlasTexture-UI (Group 0)-128x128-fmt12",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 26,
+          "Name": "SpriteAtlasTexture-Icons-512x512-fmt4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 27,
+          "Name": "SpriteAtlasTexture-UI (Group 2)-128x128-fmt4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 28,
+          "Name": "SpriteAtlasTexture-UI (Group 1)-512x256-fmt4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 29,
+          "Name": "Default-Particle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 30,
+          "Name": "LoadingIndicator",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 31,
+          "Name": "SmokeParticle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 32,
+          "Name": "MainScreenMask",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 33,
+          "Name": "ArrowIcon",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 34,
+          "Name": "FeetIcon",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 35,
+          "Name": "WhitePixel",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 36,
+          "Name": "Sparkle1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 37,
+          "Name": "Floor",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 38,
+          "Name": "Beon SDF Atlas",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 39,
+          "Name": "Beon SDF Atlas",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 40,
+          "Name": "Teko-Medium SDF Atlas",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 41,
+          "Name": "Head",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 42,
+          "Name": "SubdividedCube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 43,
+          "Name": "Glasses",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 44,
+          "Name": "Eyes",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 87,
+          "Name": "MenuClick0",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 88,
+          "Name": "Menu",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 89,
+          "Name": "Cubemap",
+          "Type": "Cubemap"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets4.assets",
+      "Assets": [
+        {
+          "PathID": 7,
+          "Name": "SaberBurnMarkCenter",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "SlashTrail",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "MoveBack",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "SaberInObstacleLoop",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "resources.assets",
+      "Assets": [
+        {
+          "PathID": 5,
+          "Name": "SpriteAtlasTexture-SongArtworks-2048x1024-fmt25",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "EditorBackTopLights",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "EditorLightsOn",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "EditorBackBottomLights",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "Default Sprite Asset",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "EditorBackRightLights",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "EditorLightsFlashAndOff",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "EditorBackRingLights",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "AVProLiveCameraIcon",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "EmojiOne",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "EditorLightsFlashAndOn",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "EditorLaserEvents",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "Arrows",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "EditorLaserColors",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "BlueNoise",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "EditorLightsOff",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 21,
+          "Name": "EditorRingsSpread",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 22,
+          "Name": "EditorBackLeftLights",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 23,
+          "Name": "EditorRingsRotate",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 24,
+          "Name": "Teko-Medium SDF Atlas",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 55,
+          "Name": "LineBreaking Following Characters",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 56,
+          "Name": "LineBreaking Leading Characters",
+          "Type": "TextAsset"
+        },
+        {
+          "PathID": 57,
+          "Name": "TurnMeOn",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 58,
+          "Name": "$100 Bills",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 59,
+          "Name": "Lvl Insane",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 60,
+          "Name": "Legend",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 61,
+          "Name": "AngelVoices",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 62,
+          "Name": "KingsAndFolk",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 63,
+          "Name": "Breezer",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 64,
+          "Name": "BeatSaber",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 65,
+          "Name": "BalearicPumping",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 66,
+          "Name": "CommercialPumping",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 67,
+          "Name": "Escape",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 68,
+          "Name": "TMPro",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 69,
+          "Name": "OVRMRChromaKey",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 70,
+          "Name": "TMPro_Properties",
+          "Type": "CGProgram"
+        },
+        {
+          "PathID": 71,
+          "Name": "TMPro_Surface",
+          "Type": "CGProgram"
+        }
+      ]
+    },
+    {
+      "Name": "sharedassets12.assets",
+      "Assets": [
+        {
+          "PathID": 8,
+          "Name": "Default-Checker",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "Checkmark",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "UISprite",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "Background",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "InputFieldBackground",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "Knob",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "DropdownArrow",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "UIMask",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "Checkers",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "whole_model_group1",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "unity_builtin_extra",
+      "Assets": []
+    },
+    {
+      "Name": "unity default resources",
+      "Assets": [
+        {
+          "PathID": 10001,
+          "Name": "Soft",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10103,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10200,
+          "Name": "pSphere1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10202,
+          "Name": "Cube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10203,
+          "Name": "pCylinder1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10204,
+          "Name": "pPlane1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10205,
+          "Name": "polySurface2",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10206,
+          "Name": "Cylinder",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10207,
+          "Name": "Sphere",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10208,
+          "Name": "Capsule",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10209,
+          "Name": "Plane",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10210,
+          "Name": "Quad",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10211,
+          "Name": "Icosphere",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10212,
+          "Name": "icosahedron",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10213,
+          "Name": "pyramid",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10400,
+          "Name": "UnityWatermark-small",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10401,
+          "Name": "EscToExit_back",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10402,
+          "Name": "EscToExit_Text",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10403,
+          "Name": "UnitySplash-cube",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10407,
+          "Name": "UnityWatermark-trial",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10408,
+          "Name": "UnityWatermark-beta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10409,
+          "Name": "UnityWatermark-edu",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10410,
+          "Name": "UnityWatermark-dev",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10411,
+          "Name": "WarningSign",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10413,
+          "Name": "UnityWatermark-proto",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10414,
+          "Name": "UnityWatermarkPlugin-beta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11001,
+          "Name": "box",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11002,
+          "Name": "button active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11003,
+          "Name": "button hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11004,
+          "Name": "button on hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11005,
+          "Name": "button on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11006,
+          "Name": "button",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11007,
+          "Name": "horizontal scrollbar thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11008,
+          "Name": "horizontal scrollbar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11009,
+          "Name": "horizontalslider",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11010,
+          "Name": "slider thumb active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11011,
+          "Name": "slider thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11012,
+          "Name": "slidert humb hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11013,
+          "Name": "toggle active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11014,
+          "Name": "toggle hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11015,
+          "Name": "toggle on hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11016,
+          "Name": "toggle on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11017,
+          "Name": "toggle on active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11018,
+          "Name": "toggle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11019,
+          "Name": "vertical scrollbar thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11020,
+          "Name": "vertical scrollbar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11021,
+          "Name": "verticalslider",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11022,
+          "Name": "window on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11023,
+          "Name": "window",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11024,
+          "Name": "textfield",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11025,
+          "Name": "textfield on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11026,
+          "Name": "textfield hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11981,
+          "Name": "VisualContainerAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11982,
+          "Name": "IMGUIContainerAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11983,
+          "Name": "ButtonAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11984,
+          "Name": "ImageAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11985,
+          "Name": "LabelAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11986,
+          "Name": "PanelAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11987,
+          "Name": "RepeatButtonAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11988,
+          "Name": "ScrollerAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11989,
+          "Name": "ScrollerButtonAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11990,
+          "Name": "ScrollViewAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11991,
+          "Name": "SliderAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11992,
+          "Name": "TextFieldAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11993,
+          "Name": "ToggleAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11994,
+          "Name": "TemplateAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11996,
+          "Name": "VisualTreeAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11997,
+          "Name": "StyleSheet",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11998,
+          "Name": "DeveloperConsole",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 12001,
+          "Name": "GUISkin",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 13312,
+          "Name": "Tile",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 13313,
+          "Name": "TileBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 15000,
+          "Name": "UnitySplash-HolographicTrackingLoss",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "globalgamemanagers.assets",
+      "Assets": [
+        {
+          "PathID": 10,
+          "Name": "AudioTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11,
+          "Name": "AudioTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 12,
+          "Name": "GridLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 13,
+          "Name": "GridLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 14,
+          "Name": "Scrollbar",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 15,
+          "Name": "Scrollbar",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 16,
+          "Name": "AudioPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 17,
+          "Name": "AudioPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 18,
+          "Name": "TMP_StyleSheet",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 19,
+          "Name": "TMP_StyleSheet",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 20,
+          "Name": "EventTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 21,
+          "Name": "EventTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 22,
+          "Name": "BaseInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 23,
+          "Name": "BaseInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 24,
+          "Name": "NetworkTransform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 25,
+          "Name": "NetworkTransform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 26,
+          "Name": "PlaymodeTestsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 27,
+          "Name": "SpatialMappingBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 28,
+          "Name": "SpatialMappingBase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 29,
+          "Name": "Physics2DRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 30,
+          "Name": "Physics2DRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 31,
+          "Name": "ControlPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 32,
+          "Name": "ControlPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 33,
+          "Name": "TMP_InputField",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 34,
+          "Name": "TMP_InputField",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 35,
+          "Name": "NetworkDiscovery",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 36,
+          "Name": "NetworkDiscovery",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 37,
+          "Name": "GroupTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 38,
+          "Name": "GroupTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 39,
+          "Name": "MaskableGraphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 40,
+          "Name": "MaskableGraphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 41,
+          "Name": "GvrAudioSoundfieldExtension",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 42,
+          "Name": "GvrAudioSoundfieldExtension",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 43,
+          "Name": "TMP_ScrollbarEventHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 44,
+          "Name": "TMP_ScrollbarEventHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 45,
+          "Name": "BaseRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 46,
+          "Name": "BaseRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 47,
+          "Name": "TMP_Text",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 48,
+          "Name": "TMP_Text",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 49,
+          "Name": "NetworkBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 50,
+          "Name": "NetworkBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 51,
+          "Name": "NetworkTransformChild",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 52,
+          "Name": "NetworkTransformChild",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 53,
+          "Name": "TrackAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 54,
+          "Name": "TrackAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 55,
+          "Name": "AspectRatioFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 56,
+          "Name": "AspectRatioFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 57,
+          "Name": "PointerInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 58,
+          "Name": "PointerInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 59,
+          "Name": "Mask",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 60,
+          "Name": "Mask",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 61,
+          "Name": "ToggleGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 62,
+          "Name": "ToggleGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 63,
+          "Name": "ControlTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 64,
+          "Name": "ControlTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 65,
+          "Name": "NetworkStartPosition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 66,
+          "Name": "NetworkStartPosition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 67,
+          "Name": "InlineGraphicManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 68,
+          "Name": "InlineGraphicManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 69,
+          "Name": "RemoteTestResultSender",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 70,
+          "Name": "TMP_SpriteAnimator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 71,
+          "Name": "TMP_SpriteAnimator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 72,
+          "Name": "Outline",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 73,
+          "Name": "Outline",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 74,
+          "Name": "GvrAudioSourceExtension",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 75,
+          "Name": "GvrAudioSourceExtension",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 76,
+          "Name": "NetworkLobbyManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 77,
+          "Name": "NetworkLobbyManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 78,
+          "Name": "GvrAudioRoom",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 79,
+          "Name": "GvrAudioRoom",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 80,
+          "Name": "NetworkTransformVisualizer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 81,
+          "Name": "NetworkTransformVisualizer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 82,
+          "Name": "NetworkManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 83,
+          "Name": "NetworkManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 84,
+          "Name": "TextMeshPro",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 85,
+          "Name": "TextMeshPro",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 86,
+          "Name": "PhysicsRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 87,
+          "Name": "PhysicsRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 88,
+          "Name": "Image",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 89,
+          "Name": "Image",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 90,
+          "Name": "AnalyticsEventTracker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 91,
+          "Name": "TMP_FontAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 92,
+          "Name": "TMP_FontAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 93,
+          "Name": "TMP_Asset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 94,
+          "Name": "TMP_Asset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 95,
+          "Name": "BasicPlayableBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 96,
+          "Name": "BasicPlayableBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 97,
+          "Name": "EventSystem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 98,
+          "Name": "EventSystem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 99,
+          "Name": "SpatialMappingRenderer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 100,
+          "Name": "SpatialMappingRenderer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 101,
+          "Name": "LayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 102,
+          "Name": "LayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 103,
+          "Name": "HorizontalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 104,
+          "Name": "HorizontalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 105,
+          "Name": "TMP_Settings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 106,
+          "Name": "TMP_Settings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 107,
+          "Name": "TMP_PhoneNumberValidator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 108,
+          "Name": "TMP_PhoneNumberValidator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 109,
+          "Name": "Selectable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 110,
+          "Name": "Selectable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 111,
+          "Name": "RectMask2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 112,
+          "Name": "RectMask2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 113,
+          "Name": "Slider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 114,
+          "Name": "Slider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 115,
+          "Name": "RawImage",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 116,
+          "Name": "RawImage",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 117,
+          "Name": "isteamutils",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 118,
+          "Name": "EditorBeatsDataConversions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 119,
+          "Name": "LocalLeaderboardTableView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 120,
+          "Name": "AVProLiveCameraMeshApply",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 121,
+          "Name": "SwapColorsSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 122,
+          "Name": "MainSettingsMenuViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 123,
+          "Name": "OVRGrabbable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 124,
+          "Name": "SteamManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 125,
+          "Name": "NoteCutEffectSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 126,
+          "Name": "BeatmapEditorSceneSetupData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 127,
+          "Name": "TutorialController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 128,
+          "Name": "FogSwitchEventEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 129,
+          "Name": "IntToRoman",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 130,
+          "Name": "CallbackDispatcher",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 131,
+          "Name": "OpenVRHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 132,
+          "Name": "GameNoteController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 133,
+          "Name": "ObjectProviderBindingsPrefabReference",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 134,
+          "Name": "LevelFinishedController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 135,
+          "Name": "Noise3DTexturesGenerator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 136,
+          "Name": "MainEffectSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 137,
+          "Name": "LeaderboardsModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 138,
+          "Name": "MixedRealityCompositorCamera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 139,
+          "Name": "OVRMonoscopic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 140,
+          "Name": "ConfigSerializer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 141,
+          "Name": "PublishedFileId_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 142,
+          "Name": "UserReportID",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 143,
+          "Name": "SteamVR_TestController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 144,
+          "Name": "BeatmapDataLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 145,
+          "Name": "CallbackIdentity",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 146,
+          "Name": "OVRProfile",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 147,
+          "Name": "UserAndRoom",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 148,
+          "Name": "CuttableBySaber",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 149,
+          "Name": "OculusVRHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 150,
+          "Name": "MatchmakingCriterionImportance",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 151,
+          "Name": "OVRPlayerController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 152,
+          "Name": "OVRResetOrientation",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 153,
+          "Name": "AVProLiveCameraGUIDisplay",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 154,
+          "Name": "SteamAPIWarningMessageHook_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 155,
+          "Name": "ActiveObstaclesManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 156,
+          "Name": "EditorSelectedNoteCutDirectionSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 157,
+          "Name": "DifficultySelectionController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 158,
+          "Name": "SystemVoipState",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 159,
+          "Name": "VRUIScreenSystem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 160,
+          "Name": "ArrayHelpers",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 161,
+          "Name": "MainCamera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 162,
+          "Name": "EditorBeatsData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 163,
+          "Name": "ProviderAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 164,
+          "Name": "XWeaponTrailRenderer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 165,
+          "Name": "SerializationHelpers",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 166,
+          "Name": "NoteMovement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 167,
+          "Name": "AVProLiveCameraUGUIComponent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 168,
+          "Name": "FileBrowserViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 169,
+          "Name": "EssentialExtensions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 170,
+          "Name": "ObstacleSaberSoundEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 171,
+          "Name": "CloudStorageConflictMetadata",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 172,
+          "Name": "FlyingFirstPersonController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 173,
+          "Name": "ObstacleExecutionRating",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 174,
+          "Name": "LIVBS",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 175,
+          "Name": "EditorLevelCoverImagePanelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 176,
+          "Name": "DemoMenuLevelPanelView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 177,
+          "Name": "TutorialSceneSetupData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 178,
+          "Name": "SortingLayer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 179,
+          "Name": "AVProLiveCamera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 180,
+          "Name": "CustomLevelAudioClipLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 181,
+          "Name": "Product",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 182,
+          "Name": "BuildTypeText",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 183,
+          "Name": "PartyID",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 184,
+          "Name": "CustomLevelImportViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 185,
+          "Name": "PSSortingLayer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 186,
+          "Name": "StringBuilderExtensions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 187,
+          "Name": "GameDynamicData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 188,
+          "Name": "MixedRealityKeyingViewControllerNew",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 189,
+          "Name": "FlyingSpriteSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 190,
+          "Name": "SteamVR_Skybox",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 191,
+          "Name": "TupleListExtensions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 192,
+          "Name": "isteamuserstats",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 193,
+          "Name": "GameScenesManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 194,
+          "Name": "servernetadr_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 195,
+          "Name": "NoteType",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 196,
+          "Name": "ObservableVariableSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 197,
+          "Name": "FlickeringNeonSign",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 198,
+          "Name": "HAuthTicket",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 199,
+          "Name": "OnRenderImageTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 200,
+          "Name": "ServiceProvider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 201,
+          "Name": "IntroTutorialController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 202,
+          "Name": "OVRCommon",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 203,
+          "Name": "LinkedAccount",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 204,
+          "Name": "StandaloneFileBrowserWindows",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 205,
+          "Name": "DeserializeableList",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 206,
+          "Name": "ReturnFromLevelToMenuController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 207,
+          "Name": "NoteCutInfo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 208,
+          "Name": "EventsPanelButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 209,
+          "Name": "EditorBeatmapSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 210,
+          "Name": "CustomLevelImporter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 211,
+          "Name": "SteamConstants",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 212,
+          "Name": "PermissionType",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 213,
+          "Name": "NoteLineLayer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 214,
+          "Name": "FlyingTextEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 215,
+          "Name": "GameSoundManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 216,
+          "Name": "PublishedFileUpdateHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 217,
+          "Name": "LevelMissionParser",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 218,
+          "Name": "MissionManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 219,
+          "Name": "MenuButtonPressDurationSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 220,
+          "Name": "MainSettingsTableView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 221,
+          "Name": "ScreenshotHandle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 222,
+          "Name": "NativeMethods",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 223,
+          "Name": "ColorManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 224,
+          "Name": "ControllerAnalogActionHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 225,
+          "Name": "PlatformSettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 226,
+          "Name": "SteamVR_PlayArea",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 227,
+          "Name": "StaticEnvironmentLights",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 228,
+          "Name": "AssetFileDeleteResult",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 229,
+          "Name": "AudioPitchGainEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 230,
+          "Name": "ListSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 231,
+          "Name": "IUnifiedContainers",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 232,
+          "Name": "FriendsGroupID_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 233,
+          "Name": "AnchorIntoParent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 234,
+          "Name": "FileBrowserModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 235,
+          "Name": "GameSongController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 236,
+          "Name": "GameDataModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 237,
+          "Name": "isteamscreenshots",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 238,
+          "Name": "TriggerChecker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 239,
+          "Name": "CustomLevelsModelSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 240,
+          "Name": "ResultsFlowCoordinator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 241,
+          "Name": "EditorSongParamsSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 242,
+          "Name": "StandardLevelListViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 243,
+          "Name": "PerlinNoise",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 244,
+          "Name": "ApplicationOptions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 245,
+          "Name": "Packsize",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 246,
+          "Name": "BeatmapDataNoArrowsTransform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 247,
+          "Name": "StandardLevelProjectController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 248,
+          "Name": "FlyingTextSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 249,
+          "Name": "DrawTools",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 250,
+          "Name": "StandaloneFileBrowserEditor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 251,
+          "Name": "isteamugc",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 252,
+          "Name": "InstantPauseTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 253,
+          "Name": "HelpAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 254,
+          "Name": "SongParamsPanelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 255,
+          "Name": "RoomOptions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 256,
+          "Name": "SharedTextureProtocol",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 257,
+          "Name": "SteamVR_Fade",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 258,
+          "Name": "OVRPlatformMenu",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 259,
+          "Name": "FloatVariableSetter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 260,
+          "Name": "OVRExternalComposition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 261,
+          "Name": "EventsTableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 262,
+          "Name": "NoteCutSoundEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 263,
+          "Name": "VRControllersInputManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 264,
+          "Name": "NoteController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 265,
+          "Name": "PlaybackController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 266,
+          "Name": "CollectionExtensions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 267,
+          "Name": "VRInteractable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 268,
+          "Name": "EnableOnVisible",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 269,
+          "Name": "GameEventOnUIButtonClick",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 270,
+          "Name": "IUnifiedContainer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 271,
+          "Name": "ExternalCameraTrackingViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 272,
+          "Name": "Ease01",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 273,
+          "Name": "Purchase",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 274,
+          "Name": "MainEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 275,
+          "Name": "LevelCollectionsForGameplayModes",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 276,
+          "Name": "OVRGazePointer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 277,
+          "Name": "ShowTextOnGameEventController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 278,
+          "Name": "MultipliedColorSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 279,
+          "Name": "LeaderboardTableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 280,
+          "Name": "StretchableCube",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 281,
+          "Name": "HorizontalCameraFov",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 282,
+          "Name": "GameOptionsTextHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 283,
+          "Name": "SmokeEnabler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 284,
+          "Name": "ObservableFloatSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 285,
+          "Name": "OVRBoundary",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 286,
+          "Name": "SimpleColorSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 287,
+          "Name": "MirrorRendererSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 288,
+          "Name": "BeatmapEventType",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 289,
+          "Name": "VertexPool",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 290,
+          "Name": "EditorStandardLevelInfoSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 291,
+          "Name": "SpectrogramColumns",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 292,
+          "Name": "isteamfriends",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 293,
+          "Name": "VoipSampleRate",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 294,
+          "Name": "OpenLevelTableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 295,
+          "Name": "SharedCoroutineStarter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 296,
+          "Name": "InteropHelp",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 297,
+          "Name": "VolumeSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 298,
+          "Name": "ObjectPool",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 299,
+          "Name": "BeatmapDataTransformHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 300,
+          "Name": "BloomPrePassRenderer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 301,
+          "Name": "EditorSelectedNoteTypeSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 302,
+          "Name": "SaberActivityCounter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 303,
+          "Name": "MixedRealityWall",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 304,
+          "Name": "ColorSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 305,
+          "Name": "LeaderboardFilterType",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 306,
+          "Name": "MouseLook",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 307,
+          "Name": "TimeWindow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 308,
+          "Name": "DisableSpatializerOnOldWindows",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 309,
+          "Name": "ScoreUIController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 310,
+          "Name": "GridTableCellHoverPositionUpdater",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 311,
+          "Name": "SteamLeaderboard_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 312,
+          "Name": "TutorialNoteController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 313,
+          "Name": "CloudStorageDataStatus",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 314,
+          "Name": "HMAutoincrementedRequestId",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 315,
+          "Name": "StandardLevelDifficultyViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 316,
+          "Name": "OVRChromaticAberration",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 317,
+          "Name": "TrackLaneRing",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 318,
+          "Name": "OVRSandwichComposition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 319,
+          "Name": "StandaloneFileBrowser",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 320,
+          "Name": "InstantiatePrefab",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 321,
+          "Name": "LevelCompletionResults",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 322,
+          "Name": "isteamremotestorage",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 323,
+          "Name": "StandardLevelDetailViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 324,
+          "Name": "HHTMLBrowser",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 325,
+          "Name": "UndoRedoPanelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 326,
+          "Name": "TutorialPauseManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 327,
+          "Name": "MenuSceneSetup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 328,
+          "Name": "LeaderboardHelpers",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 329,
+          "Name": "MouseButtonEventData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 330,
+          "Name": "AssetDetails",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 331,
+          "Name": "ObstaclesTableController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 332,
+          "Name": "SongListTableTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 333,
+          "Name": "NoteTypeAndCutDirectionKeyboardChanger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 334,
+          "Name": "MissionSuccessChecker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 335,
+          "Name": "HttpTransferUpdate",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 336,
+          "Name": "LIV",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 337,
+          "Name": "SetSaberGlowColor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 338,
+          "Name": "PlayerHeightSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 339,
+          "Name": "isteaminventory",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 340,
+          "Name": "MultiplierValuesRecorder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 341,
+          "Name": "LivestreamingStartStatus",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 342,
+          "Name": "RenderTextureGraphDrawer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 343,
+          "Name": "TutorialModeCheckerSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 344,
+          "Name": "NoteData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 345,
+          "Name": "OVRCompositionUtil",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 346,
+          "Name": "SteamStructs",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 347,
+          "Name": "OVROverlay",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 348,
+          "Name": "MixedRealityCameraCalibration",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 349,
+          "Name": "MixedRealityOverlayCanvas",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 350,
+          "Name": "Mirror",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 351,
+          "Name": "SteamVR_Events",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 352,
+          "Name": "LongNoteData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 353,
+          "Name": "Saber",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 354,
+          "Name": "MicrophoneInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 355,
+          "Name": "SteamVR_Overlay",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 356,
+          "Name": "RenderTextureFromPostEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 357,
+          "Name": "KeyPressDemoSceneSwitcher",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 358,
+          "Name": "GameplayOptions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 359,
+          "Name": "AchievementUpdate",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 360,
+          "Name": "isteamgameserverugc",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 361,
+          "Name": "LayersEnum",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 362,
+          "Name": "OVRGridCube",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 363,
+          "Name": "NetworkingPeer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 364,
+          "Name": "CameraDeviceSetupViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 365,
+          "Name": "SteamVR_Ears",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 366,
+          "Name": "LoadingIndicator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 367,
+          "Name": "TutorialModeHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 368,
+          "Name": "AfterCutScoreBuffer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 369,
+          "Name": "GlobalCutoutZParams",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 370,
+          "Name": "SiteId_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 371,
+          "Name": "MarkableUIButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 372,
+          "Name": "AccountID_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 373,
+          "Name": "ApplicationVersion",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 374,
+          "Name": "MainEffectParams",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 375,
+          "Name": "isteamgameserverinventory",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 376,
+          "Name": "SaberSwingRating",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 377,
+          "Name": "DifficultyTableTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 378,
+          "Name": "LeaderboardEntry",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 379,
+          "Name": "ScriptableObjectTestUser",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 380,
+          "Name": "TextSegmentedControlCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 381,
+          "Name": "LostDBFix",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 382,
+          "Name": "ObstacleSaberSparkleEffectManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 383,
+          "Name": "MediaContentType",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 384,
+          "Name": "PlatformInternal",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 385,
+          "Name": "OVRSceneSampleController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 386,
+          "Name": "BookmarksFoldersModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 387,
+          "Name": "PhysicsFollow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 388,
+          "Name": "PlayerController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 389,
+          "Name": "EditorPopUpInfoPanel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 390,
+          "Name": "GameplayMode",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 391,
+          "Name": "VRUINavigationController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 392,
+          "Name": "TutorialModeSetter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 393,
+          "Name": "SceneInfo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 394,
+          "Name": "TutorialSongController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 395,
+          "Name": "EventSenderAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 396,
+          "Name": "SaberTestNoteSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 397,
+          "Name": "ManifestId_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 398,
+          "Name": "BasicUIAudioManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 399,
+          "Name": "CameraDepthTextureMode",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 400,
+          "Name": "SteamVR_TrackedCamera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 401,
+          "Name": "StandardLevelSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 402,
+          "Name": "AVProLiveCameraFormatConverter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 403,
+          "Name": "OVRDebugHeadController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 404,
+          "Name": "GameBuildMode",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 405,
+          "Name": "SimpleSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 406,
+          "Name": "VRGraphicRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 407,
+          "Name": "SteamItemInstanceID_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 408,
+          "Name": "IPauseTriggerSetable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 409,
+          "Name": "ObjectProviderBindings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 410,
+          "Name": "OculusPlatformLeaderboardsHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 411,
+          "Name": "MissedNoteEffectSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 412,
+          "Name": "SendPolicy",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 413,
+          "Name": "StandardLevelLoaderSceneSetup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 414,
+          "Name": "SteamVR_CameraMask",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 415,
+          "Name": "isteamgameserverclient",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 416,
+          "Name": "ScoreMultiplierUIController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 417,
+          "Name": "SteamVR_RenderModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 418,
+          "Name": "HTTPCookieContainerHandle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 419,
+          "Name": "isteamapplist",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 420,
+          "Name": "TrackerInactivityChecker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 421,
+          "Name": "BasicLevelInfoController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 422,
+          "Name": "SmokeParams",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 423,
+          "Name": "PingResult",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 424,
+          "Name": "LaunchType",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 425,
+          "Name": "RoomJoinability",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 426,
+          "Name": "FlexyFollow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 427,
+          "Name": "MainSettingsModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 428,
+          "Name": "AVProLiveCameraSettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 429,
+          "Name": "SinMove",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 430,
+          "Name": "MissionsData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 431,
+          "Name": "StretchableObstacle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 432,
+          "Name": "OVRMixedReality",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 433,
+          "Name": "BloomPrePassParams",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 434,
+          "Name": "GameplayOptionsViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 435,
+          "Name": "BlueNoiseDithering",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 436,
+          "Name": "KawaseBlurRenderer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 437,
+          "Name": "FlowCoordinator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 438,
+          "Name": "MatchmakingEnqueueResult",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 439,
+          "Name": "Packet",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 440,
+          "Name": "CustomLevelListViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 441,
+          "Name": "EmptyMB",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 442,
+          "Name": "SettingsViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 443,
+          "Name": "OVRPlugin",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 444,
+          "Name": "IncDecSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 445,
+          "Name": "FrameCounter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 446,
+          "Name": "NoteMeshCutDebris",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 447,
+          "Name": "FadeOutOnGameEvent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 448,
+          "Name": "HSteamUser",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 449,
+          "Name": "isteamgameserverutils",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 450,
+          "Name": "OVRPointerEventData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 451,
+          "Name": "PlatformLeaderboardsModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 452,
+          "Name": "SoloModeSelectionViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 453,
+          "Name": "ShareMediaStatus",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 454,
+          "Name": "FileCompressionHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 455,
+          "Name": "UserProof",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 456,
+          "Name": "IStandardLevel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 457,
+          "Name": "EnableAfterDelay",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 458,
+          "Name": "Calibration",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 459,
+          "Name": "MeshCut",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 460,
+          "Name": "TutorialSceneSetup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 461,
+          "Name": "StandardLevelCollectionSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 462,
+          "Name": "BeatmapDataMirrorTransform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 463,
+          "Name": "ArcadeLevelSelectionFlowCoordinator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 464,
+          "Name": "BeatmapData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 465,
+          "Name": "EmitParticles",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 466,
+          "Name": "LevelFailedController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 467,
+          "Name": "SimpleListTableView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 468,
+          "Name": "PersistentScriptableObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 469,
+          "Name": "isteamgameserverapps",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 470,
+          "Name": "OVRModeParms",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 471,
+          "Name": "LivestreamingStartResult",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 472,
+          "Name": "RoomJoinPolicy",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 473,
+          "Name": "ButtonBinder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 474,
+          "Name": "SaberWeaponTrail",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 475,
+          "Name": "SteamVR_Camera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 476,
+          "Name": "CustomLevelListTableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 477,
+          "Name": "FillIndicator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478,
+          "Name": "ExternalCamera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 479,
+          "Name": "GameplayModeIndicator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 480,
+          "Name": "TrackLaneRingsPositionStepEffectSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 481,
+          "Name": "SaberSound",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 482,
+          "Name": "CloudStorageMetadata",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 483,
+          "Name": "EventsTable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 484,
+          "Name": "MatchmakingAdminSnapshotCandidate",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 485,
+          "Name": "SaberBurnMarkArea",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 486,
+          "Name": "SaveAsPanelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 487,
+          "Name": "BloomFogEnvironment",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 488,
+          "Name": "BeatLineTableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 489,
+          "Name": "SteamItemDef_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 490,
+          "Name": "StandardLevelListTableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 491,
+          "Name": "SimpleTextureLoaderSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 492,
+          "Name": "OVRLayerAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 493,
+          "Name": "OVRCameraComposition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 494,
+          "Name": "ScoreFormatter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 495,
+          "Name": "VoipPCMSourceNative",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 496,
+          "Name": "PauseMenuManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 497,
+          "Name": "LivestreamingAudience",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 498,
+          "Name": "NoteCutHapticEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 499,
+          "Name": "BloomPrePass",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 500,
+          "Name": "ButtonState",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 501,
+          "Name": "ObjectProviderBindingSimpleReference",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 502,
+          "Name": "StandalonePlatformSettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 503,
+          "Name": "SteamInventoryResult_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 504,
+          "Name": "CustomLevelImportNavigationController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 505,
+          "Name": "VoipAudioSourceHiLevel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 506,
+          "Name": "CustomLevelStandardLevelLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 507,
+          "Name": "FlexyFollowAndRotate",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 508,
+          "Name": "TextFadeTransitions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 509,
+          "Name": "FullscreenAlign",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 510,
+          "Name": "BeatmapSaveData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 511,
+          "Name": "SimpleVRNodeRecorder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 512,
+          "Name": "ComboUIController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 513,
+          "Name": "HSteamPipe",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 514,
+          "Name": "KeyValuePairType",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 515,
+          "Name": "IStandaloneFileBrowser",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 516,
+          "Name": "AssetFileDownloadUpdate",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 517,
+          "Name": "TubeBloomPrePassLight",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 518,
+          "Name": "UGCHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 519,
+          "Name": "RoomAdjustSettingsViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 520,
+          "Name": "MirrorRendererGraphicsSettingsPresets",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 521,
+          "Name": "PauseTriggerSetter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 522,
+          "Name": "CopyAndPastInfoPopups",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 523,
+          "Name": "EventsTableController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 524,
+          "Name": "TrackLaneRingsManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 525,
+          "Name": "MoveBackWall",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 526,
+          "Name": "CustomLevelImportDetailViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 527,
+          "Name": "TweenPosition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 528,
+          "Name": "UserPresenceStatus",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 529,
+          "Name": "LivestreamingStatus",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 530,
+          "Name": "MainMenuViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 531,
+          "Name": "SimpleListTableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 532,
+          "Name": "SaberClashEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 533,
+          "Name": "LivestreamingVideoStats",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 534,
+          "Name": "OVRCubemapCapture",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 535,
+          "Name": "OVRRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 536,
+          "Name": "ToggleBinder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 537,
+          "Name": "OVRGearVrControllerTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 538,
+          "Name": "EditorPopUpInfoPanelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 539,
+          "Name": "SaberHistoryData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 540,
+          "Name": "isteamhttp",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 541,
+          "Name": "MixedRealityScoreOverlayController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 542,
+          "Name": "MatchmakingStatApproach",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 543,
+          "Name": "BeatEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 544,
+          "Name": "BeatmapEditorScrollView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 545,
+          "Name": "BeatmapEditorTable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 546,
+          "Name": "ResultsViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 547,
+          "Name": "OVRTracker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 548,
+          "Name": "isteamvideo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 549,
+          "Name": "CustomLevelInfoWrapperLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 550,
+          "Name": "PlatformLeaderboardsHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 551,
+          "Name": "ResumePauseAnimationController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 552,
+          "Name": "NoteCutParticlesEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 553,
+          "Name": "OVRManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 554,
+          "Name": "UserOptions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 555,
+          "Name": "IObservableChange",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 556,
+          "Name": "SteamVR_SphericalProjection",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 557,
+          "Name": "AVProLiveCameraDevice",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 558,
+          "Name": "WindowResolutionSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 559,
+          "Name": "SteamVR",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 560,
+          "Name": "AudioFading",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 561,
+          "Name": "GamePauseManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 562,
+          "Name": "SaberBurnMarkTrail",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 563,
+          "Name": "StandardLevelSelectionNavigationController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 564,
+          "Name": "Party",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 565,
+          "Name": "PersistentSingleton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 566,
+          "Name": "EditorLevelCoverImageSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 567,
+          "Name": "AssetFileDownloadCancelResult",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 568,
+          "Name": "FlyingCar",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 569,
+          "Name": "ObstaclesTable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 570,
+          "Name": "TextMeshProButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 571,
+          "Name": "AndroidPlatform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 572,
+          "Name": "OVRComposition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 573,
+          "Name": "BeatmapEditorSongController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 574,
+          "Name": "LightSwitchEventEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 575,
+          "Name": "IMicrophone",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 576,
+          "Name": "User",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 577,
+          "Name": "isteamgameserver",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 578,
+          "Name": "Decoder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 579,
+          "Name": "VRCenterAdjust",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 580,
+          "Name": "BeatmapObjectType",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 581,
+          "Name": "AVProLiveCameraPlugin",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 582,
+          "Name": "BombNoteController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 583,
+          "Name": "RandomObjectPicker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 584,
+          "Name": "SteamAPI_CheckCallbackRegistered_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 585,
+          "Name": "MatchmakingOptions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 586,
+          "Name": "TutorialNoteCutEffectSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 587,
+          "Name": "ControllerHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 588,
+          "Name": "OVROnCompleteListener",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 589,
+          "Name": "GameEnergyUIPanel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 590,
+          "Name": "RecycleOnInvisible",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 591,
+          "Name": "EditorStandardLevelProjectSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 592,
+          "Name": "PlayerHeadAndObstacleInteraction",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 593,
+          "Name": "GrabScreen",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 594,
+          "Name": "FloatGameEvent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 595,
+          "Name": "HServerQuery",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 596,
+          "Name": "ControllerDigitalActionHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 597,
+          "Name": "VRUIScreen",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 598,
+          "Name": "Image",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 599,
+          "Name": "RoomType",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 600,
+          "Name": "MixedRealitySettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 601,
+          "Name": "MainSettingsTableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 602,
+          "Name": "BeatmapObjectExecutionRating",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 603,
+          "Name": "DepotId_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 604,
+          "Name": "UGCUpdateHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 605,
+          "Name": "MaterialPropertyBlockController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 606,
+          "Name": "isteamnetworking",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 607,
+          "Name": "SteamVR_Stats",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 608,
+          "Name": "PlayerMissionStatsData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 609,
+          "Name": "AVProLiveCameraDeviceMode",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 610,
+          "Name": "BasicSpectrogramData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 611,
+          "Name": "openvr_api",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 612,
+          "Name": "AchievementProgress",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 613,
+          "Name": "MouseState",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 614,
+          "Name": "LeaderboardStartAt",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 615,
+          "Name": "BloomPrePassGraphicsSettingsPresets",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 616,
+          "Name": "PlayerLevelStatsData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 617,
+          "Name": "ApplySettingsOnBeatmapObjectSpawnController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 618,
+          "Name": "ResetPlayerPrefsOnButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 619,
+          "Name": "FloatVariable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 620,
+          "Name": "OVRDirectComposition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 621,
+          "Name": "BeatmapEventData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 622,
+          "Name": "MenuSceneSetupData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 623,
+          "Name": "isteamclient",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 624,
+          "Name": "ObstaclesTableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 625,
+          "Name": "GameEvent",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 626,
+          "Name": "OVRInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 627,
+          "Name": "AVProLiveCameraGrabber",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 628,
+          "Name": "CustomLevelInfo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 629,
+          "Name": "GameScenesManagerExecutor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 630,
+          "Name": "OnWillRenderObjectTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 631,
+          "Name": "VRPointer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 632,
+          "Name": "Rotate",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 633,
+          "Name": "CustomLevelLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 634,
+          "Name": "StandardLevelListTableView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 635,
+          "Name": "PlatformLeaderboardViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 636,
+          "Name": "EnableEmmisionOnVisible",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 637,
+          "Name": "SongPreviewPlayer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 638,
+          "Name": "CustomLevelImportFlowCoordinator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 639,
+          "Name": "BeatmapEditorTableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 640,
+          "Name": "MainAudioEffects",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 641,
+          "Name": "MatchmakingBrowseResult",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 642,
+          "Name": "AntialiasingSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 643,
+          "Name": "MixedReality",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 644,
+          "Name": "IPauseTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 645,
+          "Name": "CloudStorageData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 646,
+          "Name": "BloomFogEnvironmentParams",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 647,
+          "Name": "ObstacleSaberSparkleEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 648,
+          "Name": "EventDrawStyleSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 649,
+          "Name": "PlayerDynamicData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 650,
+          "Name": "TrackLaneRingsRotationEffectSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 651,
+          "Name": "isteamparentalsettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 652,
+          "Name": "SleepRigidbody2DWhenInvisible",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 653,
+          "Name": "BuildInfoText",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 654,
+          "Name": "MatchmakingEnqueueResultAndRoom",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 655,
+          "Name": "EditorAudioSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 656,
+          "Name": "GridTableCellHoverEnabler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 657,
+          "Name": "TrackLaneRingsRotationEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 658,
+          "Name": "BeatsPerBarPanelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 659,
+          "Name": "EmptyImageEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 660,
+          "Name": "AutoInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 661,
+          "Name": "ObstacleType",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 662,
+          "Name": "HServerListRequest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 663,
+          "Name": "TagPropertyAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 664,
+          "Name": "MainEffectGraphicsSettingsPresets",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 665,
+          "Name": "NoteCutDirection",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 666,
+          "Name": "OVRMixedRealityCaptureSettings",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 667,
+          "Name": "SmokeSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 668,
+          "Name": "AudioTimeSyncController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 669,
+          "Name": "GameEventListener",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 670,
+          "Name": "CallbackRunner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 671,
+          "Name": "WindowModeSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 672,
+          "Name": "MixedRealityFarCamCompositor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 673,
+          "Name": "Steam",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 674,
+          "Name": "MIDIParser",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 675,
+          "Name": "BeatData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 676,
+          "Name": "BeatEffectSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 677,
+          "Name": "Request",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 678,
+          "Name": "SegmentedControl",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 679,
+          "Name": "BeatmapObjectExecutionRatingsRecorder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 680,
+          "Name": "Encoder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 681,
+          "Name": "MainSelectionPanelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 682,
+          "Name": "UndoRedoBuffer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 683,
+          "Name": "UGCFileWriteStreamHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 684,
+          "Name": "isteamuser",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 685,
+          "Name": "AppId_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 686,
+          "Name": "ObstacleController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 687,
+          "Name": "CommandBufferGOCore",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 688,
+          "Name": "BeatmapAssetImporter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 689,
+          "Name": "BeatmapDataObstaclesTransform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 690,
+          "Name": "CaptureAudioToWav",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 691,
+          "Name": "DoubleVariable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 692,
+          "Name": "MatchmakingAdminSnapshot",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 693,
+          "Name": "LeaderboardTableView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 694,
+          "Name": "Billboard",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 695,
+          "Name": "FlyingSpriteEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 696,
+          "Name": "HapticFeedbackController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 697,
+          "Name": "isteammusicremote",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 698,
+          "Name": "BeatmapObjectCallbackController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 699,
+          "Name": "VRPlatformHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 700,
+          "Name": "LocalLeaderboardViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 701,
+          "Name": "SteamVR_LoadLevel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 702,
+          "Name": "CustomLevelInfoWrapper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 703,
+          "Name": "OpenLevelPanelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 704,
+          "Name": "MicrophoneInputNative",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 705,
+          "Name": "SwitchSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 706,
+          "Name": "GetActiveRT",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 707,
+          "Name": "GameSceneSetupData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 708,
+          "Name": "SmoothFOV",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 709,
+          "Name": "EventsHeader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 710,
+          "Name": "MouseClickHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 711,
+          "Name": "TestFlowCoordinator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 712,
+          "Name": "HMTask",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 713,
+          "Name": "MatchmakingStats",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 714,
+          "Name": "VRUIHierarchyRebuildDataManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 715,
+          "Name": "IValue",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 716,
+          "Name": "AVProLiveCameraApplyUITextureNGUI",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 717,
+          "Name": "FollowLocalRotation",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 718,
+          "Name": "EditorNoteData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 719,
+          "Name": "SaberTypeObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 720,
+          "Name": "BloomSkyboxQuad",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 721,
+          "Name": "BaseNoteVisuals",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 722,
+          "Name": "SNetSocket_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 723,
+          "Name": "PlatformInitialize",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 724,
+          "Name": "SystemPermission",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 725,
+          "Name": "WindowsPlatform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 726,
+          "Name": "MixedRealityUIController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 727,
+          "Name": "UIKeyboard",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 728,
+          "Name": "ReleaseInfoViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 729,
+          "Name": "NoteCutSoundEffectManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 730,
+          "Name": "EventSetDrawStyleSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 731,
+          "Name": "MainSystemInit",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 732,
+          "Name": "MixedRealityQuadrantsCompositor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 733,
+          "Name": "BloomFog",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 734,
+          "Name": "DemoMenuViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 735,
+          "Name": "SystemVoipStatus",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 736,
+          "Name": "ShareMediaResult",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 737,
+          "Name": "SaberAfterCutSwingRatingCounter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 738,
+          "Name": "EnableDepthTextureMode",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 739,
+          "Name": "AutoRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 740,
+          "Name": "NumberTag",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 741,
+          "Name": "SdkAccount",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 742,
+          "Name": "OVRTrackedRemote",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 743,
+          "Name": "NullAllowedAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 744,
+          "Name": "HowToPlayViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 745,
+          "Name": "NotesTableController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 746,
+          "Name": "PlatformInitializeResult",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 747,
+          "Name": "TableView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 748,
+          "Name": "BeatmapEditorScrollViewDataSetter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 749,
+          "Name": "SectionTogglesController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 750,
+          "Name": "WaveformImageDataSetter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 751,
+          "Name": "DifficultyTableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 752,
+          "Name": "EditorEventData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 753,
+          "Name": "SteamVR_Frustum",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 754,
+          "Name": "gameserveritem_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 755,
+          "Name": "Spline",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 756,
+          "Name": "GameplayManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 757,
+          "Name": "ShufflePanelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 758,
+          "Name": "AVProLiveCameraMaterialApply",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 759,
+          "Name": "isteamgameserverstats",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 760,
+          "Name": "CustomLevelListTableView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 761,
+          "Name": "RoomAdjustController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 762,
+          "Name": "DismissableNavigationController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 763,
+          "Name": "CloudStorageUpdateResponse",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 764,
+          "Name": "SteamInventoryUpdateHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 765,
+          "Name": "SteamVR_UpdatePoses",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 766,
+          "Name": "NotesTable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 767,
+          "Name": "ColorNoteVisuals",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 768,
+          "Name": "OVRDebugInfo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 769,
+          "Name": "NativeFileDialogs",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 770,
+          "Name": "isteammatchmaking",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 771,
+          "Name": "AbuseReportRecording",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 772,
+          "Name": "RoomInviteNotification",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 773,
+          "Name": "DelayedPauseTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 774,
+          "Name": "BloomRenderer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 775,
+          "Name": "LocalLeaderboardsModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 776,
+          "Name": "GridTable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 777,
+          "Name": "InstalledApplication",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 778,
+          "Name": "SteamCallbacks",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 779,
+          "Name": "EventsSelectedTool",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 780,
+          "Name": "OVRDisplay",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 781,
+          "Name": "GameEnvironmentSceneSetup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 782,
+          "Name": "Analytics",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 783,
+          "Name": "MultiplierIncreasedEffectSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 784,
+          "Name": "LivestreamingMicrophoneStatus",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 785,
+          "Name": "EventSystemHelper",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 786,
+          "Name": "StandaloneFileBrowserMac",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 787,
+          "Name": "CameraRenderCallbacksManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 788,
+          "Name": "MixedRealityWallsSetupViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 789,
+          "Name": "isteamgameservernetworking",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 790,
+          "Name": "SteamPlatformLeaderboardsHandler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 791,
+          "Name": "TableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 792,
+          "Name": "SteamVR_Utils",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 793,
+          "Name": "SteamVR_GameView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 794,
+          "Name": "SimpleDialogPromptViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 795,
+          "Name": "CustomLevelFileBrowserModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 796,
+          "Name": "OrgScopedID",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 797,
+          "Name": "MovementHistoryRecorder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 798,
+          "Name": "SpaceToRestart",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 799,
+          "Name": "ObstacleData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 800,
+          "Name": "Touchable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 801,
+          "Name": "LeaderboardEntry",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 802,
+          "Name": "RoomMembershipLockStatus",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 803,
+          "Name": "ScriptableObjectTest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 804,
+          "Name": "Error",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 805,
+          "Name": "OVRHapticsClip",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 806,
+          "Name": "ResetLocalLeaderboardOnKey",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 807,
+          "Name": "BombCutSoundEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 808,
+          "Name": "IVoipPCMSource",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 809,
+          "Name": "LevelFailedTextEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 810,
+          "Name": "Snap",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 811,
+          "Name": "AverageSpeedComputer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 812,
+          "Name": "KawaseBlurPostProcess",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 813,
+          "Name": "ControllerActionSetHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 814,
+          "Name": "Extensions",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 815,
+          "Name": "BloomPrePassLight",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 816,
+          "Name": "FlyingScoreSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 817,
+          "Name": "FileBrowserTableView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 818,
+          "Name": "MixedRealityKeyingViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 819,
+          "Name": "Pid",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 820,
+          "Name": "NoteTypeAndDirectionPanelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 821,
+          "Name": "WyrmJson",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 822,
+          "Name": "TunnelSmokeEventEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 823,
+          "Name": "SdkAccountType",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 824,
+          "Name": "RandomValueToShader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 825,
+          "Name": "HeadObstacleHitEffectSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 826,
+          "Name": "SteamVR_ExternalCamera",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 827,
+          "Name": "SaberActivityLineGraph",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 828,
+          "Name": "ObjectProvider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 829,
+          "Name": "VRUIViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 830,
+          "Name": "HTTPRequestHandle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 831,
+          "Name": "FlyingCarEnabler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 832,
+          "Name": "GameEnergyCounter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 833,
+          "Name": "SteamAsyncRequest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 834,
+          "Name": "GeometryTools",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 835,
+          "Name": "CAPI",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 836,
+          "Name": "LayerMasks",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 837,
+          "Name": "MissedNoteEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 838,
+          "Name": "Platform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 839,
+          "Name": "VoipMuteState",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 840,
+          "Name": "CSteamID",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 841,
+          "Name": "SteamAPICall_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 842,
+          "Name": "BombExecutionRating",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 843,
+          "Name": "VariableSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 844,
+          "Name": "ActiveDifficultySO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 845,
+          "Name": "FadeInOnStart",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 846,
+          "Name": "isteammusic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 847,
+          "Name": "EventsPanelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 848,
+          "Name": "ScoreController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 849,
+          "Name": "RenderingScaleSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 850,
+          "Name": "SegmentedControlCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 851,
+          "Name": "FeverModeUIPanel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 852,
+          "Name": "BuildInfoOverlay",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 853,
+          "Name": "BeatmapObjectData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 854,
+          "Name": "NoteDebrisSpawner",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 855,
+          "Name": "OVRInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 856,
+          "Name": "SaberClashChecker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 857,
+          "Name": "SongProgressUIController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 858,
+          "Name": "OVRWaitCursor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 859,
+          "Name": "SteamVRCompatibility",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 860,
+          "Name": "SteamEnums",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 861,
+          "Name": "SteamVR_TrackedObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 862,
+          "Name": "IntroTutorialRing",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 863,
+          "Name": "OVRHaptics",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 864,
+          "Name": "PeerConnectionState",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 865,
+          "Name": "isteamcontroller",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 866,
+          "Name": "StandalonePlatform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 867,
+          "Name": "LightRotationEventEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 868,
+          "Name": "BeatLinesTable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 869,
+          "Name": "MirrorRenderer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 870,
+          "Name": "NotesTableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 871,
+          "Name": "ScreenshotRecorder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 872,
+          "Name": "LeaderboardScoreUploader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 873,
+          "Name": "AchievementType",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 874,
+          "Name": "Callback",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 875,
+          "Name": "LaunchDetails",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 876,
+          "Name": "Room",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 877,
+          "Name": "MixedRealityRender",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 878,
+          "Name": "DifficultyTableView",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 879,
+          "Name": "VRControllersRecorder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 880,
+          "Name": "CloudStorageUpdateStatus",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 881,
+          "Name": "LivestreamingApplicationStatus",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 882,
+          "Name": "ListTextButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 883,
+          "Name": "BloomPrePassSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 884,
+          "Name": "NoteExecutionRating",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 885,
+          "Name": "RestartLevelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 886,
+          "Name": "BufferedAudioStream",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 887,
+          "Name": "NameEntryViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 888,
+          "Name": "SongController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 889,
+          "Name": "ObstacleTypePanelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 890,
+          "Name": "NoteFloorMovement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 891,
+          "Name": "UserOrdering",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 892,
+          "Name": "SetActiveRT",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 893,
+          "Name": "ReturnFromTutorialToMenuController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 894,
+          "Name": "CustomLevelSelectionFlowCoordinator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 895,
+          "Name": "OVRScreenFade",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 896,
+          "Name": "OVRCameraRig",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 897,
+          "Name": "MixedRealityCompositor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 898,
+          "Name": "BeatmapObjectSpawnController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 899,
+          "Name": "NoteDebris",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 900,
+          "Name": "EditorBeatsDataSet",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 901,
+          "Name": "SteamLeaderboardsEditor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 902,
+          "Name": "ObstacleDissolve",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 903,
+          "Name": "AsyncScenesLoader",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 904,
+          "Name": "SteamVR_ControllerManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 905,
+          "Name": "FlyingScoreTextEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 906,
+          "Name": "BeatmapDataSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 907,
+          "Name": "BlueNoiseDitheringUpdater",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 908,
+          "Name": "VoipAudioSource",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 909,
+          "Name": "StandardLevelSaveData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 910,
+          "Name": "AssetFileDownloadResult",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 911,
+          "Name": "MatchmakingEnqueuedUser",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 912,
+          "Name": "PermissionGrantStatus",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 913,
+          "Name": "MixedRealityCameraTrackedObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 914,
+          "Name": "MixedRealityWebCamCompositor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 915,
+          "Name": "VoipInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 916,
+          "Name": "BombExplosionEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 917,
+          "Name": "SteamVR_Menu",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 918,
+          "Name": "BeatmapLineData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 919,
+          "Name": "ObservableStringSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 920,
+          "Name": "VRTrackersRecorder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 921,
+          "Name": "Singleton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 922,
+          "Name": "SteamVR_Render",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 923,
+          "Name": "isteamgameserverhttp",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 924,
+          "Name": "AudioClipLoaderSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 925,
+          "Name": "CustomMusicFileBrowserModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 926,
+          "Name": "SteamVR_IK",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 927,
+          "Name": "isteamapps",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 928,
+          "Name": "LocalizationManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 929,
+          "Name": "StandardLevelSelectionFlowCoordinator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 930,
+          "Name": "MainFlowCoordinator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 931,
+          "Name": "EnumFlagAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 932,
+          "Name": "OpenLevelTableController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 933,
+          "Name": "BeatmapTestStarter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 934,
+          "Name": "EnableAlphaFeaturesSettingsController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 935,
+          "Name": "PlayAudioOnGameEventController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 936,
+          "Name": "ShockwaveEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 937,
+          "Name": "BombCutSoundEffectManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 938,
+          "Name": "DirectionalESMLight",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 939,
+          "Name": "HMMainThreadDispatcher",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 940,
+          "Name": "AVProLiveCameraManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 941,
+          "Name": "UGCQueryHandle_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 942,
+          "Name": "ShowHideAnimationController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 943,
+          "Name": "NoteJump",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 944,
+          "Name": "isteamhtmlsurface",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 945,
+          "Name": "FileHelpers",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 946,
+          "Name": "VRController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 947,
+          "Name": "MissionData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 948,
+          "Name": "SNetListenSocket_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 949,
+          "Name": "Message",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 950,
+          "Name": "ObservableIntSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 951,
+          "Name": "PrepareLevelEndMenuSceneSetupData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 952,
+          "Name": "OVRProgressIndicator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 953,
+          "Name": "CutoutAnimateEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 954,
+          "Name": "ISteamMatchmakingResponses",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 955,
+          "Name": "CreateSOAttribute",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 956,
+          "Name": "BeatmapDataModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 957,
+          "Name": "VRInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 958,
+          "Name": "SimpleTemporalFiltering",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 959,
+          "Name": "TextButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 960,
+          "Name": "RandomAnimationStartTime",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 961,
+          "Name": "RestartTutorialController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 962,
+          "Name": "CGameID",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 963,
+          "Name": "EditorObstacleData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 964,
+          "Name": "MainGameSceneSetupData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 965,
+          "Name": "SteamLeaderboardEntries_t",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 966,
+          "Name": "OVRLint",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 967,
+          "Name": "SplineControlPoint",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 968,
+          "Name": "CommandBufferOwners",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 969,
+          "Name": "CommandBufferBlurryScreenGrab",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 970,
+          "Name": "WaveformImage",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 971,
+          "Name": "SteamVR_CameraFlip",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 972,
+          "Name": "SimpleSegmentedControl",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 973,
+          "Name": "FileBrowserTableCell",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 974,
+          "Name": "DoubleVariableSetter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 975,
+          "Name": "XWeaponTrail",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 976,
+          "Name": "DemoFlowCoordinator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 977,
+          "Name": "CopyAndPasteController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 978,
+          "Name": "ArcadeInitialViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 979,
+          "Name": "AVProLiveCameraPixelBuffer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 980,
+          "Name": "AlertPanelController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 981,
+          "Name": "InputFieldDataBinder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 982,
+          "Name": "AchievementDefinition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 983,
+          "Name": "OVRPhysicsRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 984,
+          "Name": "MainGameSceneSetup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 985,
+          "Name": "AudioClipQueue",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 986,
+          "Name": "SteamVR_Controller",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 987,
+          "Name": "VisibilityChecker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 988,
+          "Name": "InitSceneSetupData",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 989,
+          "Name": "GhostNoteController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 990,
+          "Name": "MissionsViewController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 991,
+          "Name": "Toggle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 992,
+          "Name": "OVRGrabber",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 993,
+          "Name": "HMAsyncRequest",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 994,
+          "Name": "EditorCopyPasteFilterSO",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 995,
+          "Name": "LeaderboardViewControllerManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 996,
+          "Name": "AveragingValueRecorder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 997,
+          "Name": "MixedRealityWebCamManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 998,
+          "Name": "ActivateOnVisible",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 999,
+          "Name": "ActivationTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1000,
+          "Name": "ActivationTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1001,
+          "Name": "AnalyticsTracker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1002,
+          "Name": "NetworkManagerHUD",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1003,
+          "Name": "NetworkManagerHUD",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1004,
+          "Name": "NetworkLobbyPlayer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1005,
+          "Name": "NetworkLobbyPlayer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1006,
+          "Name": "SpatialMappingCollider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1007,
+          "Name": "SpatialMappingCollider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1008,
+          "Name": "TextContainer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1009,
+          "Name": "TextContainer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1010,
+          "Name": "TimelineAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1011,
+          "Name": "TimelineAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1012,
+          "Name": "NetworkIdentity",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1013,
+          "Name": "NetworkIdentity",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1014,
+          "Name": "Graphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1015,
+          "Name": "Graphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1016,
+          "Name": "ActivationPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1017,
+          "Name": "ActivationPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1018,
+          "Name": "UIBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1019,
+          "Name": "UIBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1020,
+          "Name": "InputField",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1021,
+          "Name": "InputField",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1022,
+          "Name": "Text",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1023,
+          "Name": "Text",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1024,
+          "Name": "HorizontalOrVerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1025,
+          "Name": "HorizontalOrVerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1026,
+          "Name": "Dropdown",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1027,
+          "Name": "Dropdown",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1028,
+          "Name": "HoloLensInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1029,
+          "Name": "HoloLensInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1030,
+          "Name": "AudioSpatializerMicrosoft",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1031,
+          "Name": "AudioSpatializerMicrosoft",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1032,
+          "Name": "StandaloneInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1033,
+          "Name": "StandaloneInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1034,
+          "Name": "TMP_Dropdown",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1035,
+          "Name": "TMP_Dropdown",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1036,
+          "Name": "NetworkMigrationManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1037,
+          "Name": "NetworkMigrationManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1038,
+          "Name": "NetworkProximityChecker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1039,
+          "Name": "NetworkProximityChecker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1040,
+          "Name": "VerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1041,
+          "Name": "VerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1042,
+          "Name": "GraphicRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1043,
+          "Name": "GraphicRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1044,
+          "Name": "BaseInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1045,
+          "Name": "BaseInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1046,
+          "Name": "TMP_SubMesh",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1047,
+          "Name": "TMP_SubMesh",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1048,
+          "Name": "ScrollRect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1049,
+          "Name": "ScrollRect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1050,
+          "Name": "Button",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1051,
+          "Name": "Button",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1052,
+          "Name": "TMP_SelectionCaret",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1053,
+          "Name": "TMP_SelectionCaret",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1054,
+          "Name": "CallbackExecutor",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1055,
+          "Name": "InlineGraphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1056,
+          "Name": "InlineGraphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1057,
+          "Name": "TextMeshProUGUI",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1058,
+          "Name": "TextMeshProUGUI",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1059,
+          "Name": "AnimationTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1060,
+          "Name": "AnimationTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1061,
+          "Name": "Shadow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1062,
+          "Name": "Shadow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1063,
+          "Name": "NetworkAnimator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1064,
+          "Name": "NetworkAnimator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1065,
+          "Name": "PlayModeRunnerCallback",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1066,
+          "Name": "BaseMeshEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1067,
+          "Name": "BaseMeshEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1068,
+          "Name": "LayoutElement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1069,
+          "Name": "LayoutElement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1070,
+          "Name": "Placeholder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1071,
+          "Name": "ContentSizeFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1072,
+          "Name": "ContentSizeFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1073,
+          "Name": "TrackedPoseDriver",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1074,
+          "Name": "TrackedPoseDriver",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1075,
+          "Name": "PlayableTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1076,
+          "Name": "PlayableTrack",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1077,
+          "Name": "GvrAudioListenerExtension",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1078,
+          "Name": "GvrAudioListenerExtension",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1079,
+          "Name": "PositionAsUV1",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1080,
+          "Name": "PositionAsUV1",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1081,
+          "Name": "HoloLensInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1082,
+          "Name": "HoloLensInput",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1083,
+          "Name": "TMP_SubMeshUI",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1084,
+          "Name": "TMP_SubMeshUI",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1085,
+          "Name": "TMP_InputValidator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1086,
+          "Name": "TMP_InputValidator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1087,
+          "Name": "CanvasScaler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1088,
+          "Name": "CanvasScaler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1089,
+          "Name": "TouchInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1090,
+          "Name": "TouchInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1091,
+          "Name": "TMP_SpriteAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1092,
+          "Name": "TMP_SpriteAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1093,
+          "Name": "AnimationPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1094,
+          "Name": "AnimationPlayableAsset",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1095,
+          "Name": "TMP_ColorGradient",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1096,
+          "Name": "TMP_ColorGradient",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1097,
+          "Name": "Toggle",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1098,
+          "Name": "Toggle",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "level9",
+      "Assets": [
+        {
+          "PathID": 1,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 2,
+          "Name": "Tube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 3,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 5,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 7,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 8,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "level8",
+      "Assets": [
+        {
+          "PathID": 1,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 2,
+          "Name": "Tube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 3,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 5,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 7,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 8,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "level7",
+      "Assets": [
+        {
+          "PathID": 1,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 2,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 3,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 5,
+          "Name": "Tube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "level6",
+      "Assets": []
+    },
+    {
+      "Name": "level5",
+      "Assets": [
+        {
+          "PathID": 1,
+          "Name": "Tube",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "level4",
+      "Assets": []
+    },
+    {
+      "Name": "level3",
+      "Assets": []
+    },
+    {
+      "Name": "level2",
+      "Assets": []
+    },
+    {
+      "Name": "level12",
+      "Assets": [
+        {
+          "PathID": 1,
+          "Name": "Combined Mesh (root: scene)",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "level11",
+      "Assets": [
+        {
+          "PathID": 1,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 2,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 3,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4,
+          "Name": "Tube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 5,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 7,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 8,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "level10",
+      "Assets": [
+        {
+          "PathID": 1,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 2,
+          "Name": "Tube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 3,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 5,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 7,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "level1",
+      "Assets": [
+        {
+          "PathID": 3,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4,
+          "Name": "Tube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 5,
+          "Name": "Combined Mesh (root: scene)",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 7,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 8,
+          "Name": "Tube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 9,
+          "Name": "CombinedMesh",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "level0",
+      "Assets": []
+    },
+    {
+      "Name": "globalgamemanagers",
+      "Assets": []
+    }
+  ]
+}

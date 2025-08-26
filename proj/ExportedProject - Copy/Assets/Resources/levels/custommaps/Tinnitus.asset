@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad14bc8b86f67bd794abb71981003f32, type: 3}
+  m_Name: Tinnitus
+  m_EditorClassIdentifier: 
+  _levelID: Level13
+  _songName: Tinnitus
+  _songSubName: BL RANKED
+  _songAuthorName: SP-#
+  _audioClip: {fileID: 8300000, guid: 5868404098d265a49b05c5a6e3cbee70, type: 3}
+  _beatsPerMinute: 208
+  _songTimeOffset: 0
+  _shuffle: 0
+  _shufflePeriod: 0.5
+  _previewStartTime: 137
+  _previewDuration: 10
+  _coverImage: {fileID: 21300000, guid: a61af4401f052ff4b9b9ea04217d00d6, type: 3}
+  _environmentSceneInfo: {fileID: 11400000, guid: d721b08049f39de47a89a66d6c0573fd,
+    type: 2}
+  _difficultyBeatmaps:
+  - _difficulty: 0
+    _difficultyRank: 3
+    _noteJumpMovementSpeed: 1
+    _beatmapData: {fileID: 11400000, guid: 63e22e58fc4bb9f4c98032179b972e4d, type: 2}
+  - _difficulty: 2
+    _difficultyRank: 3
+    _noteJumpMovementSpeed: 17
+    _beatmapData: {fileID: 11400000, guid: e7ef1772054ca214ea3937ef391e510e, type: 2}
+  - _difficulty: 3
+    _difficultyRank: 3
+    _noteJumpMovementSpeed: 20
+    _beatmapData: {fileID: 11400000, guid: f5cc49a2948219f4ab0ffb4f2522b1f6, type: 2}
+  - _difficulty: 4
+    _difficultyRank: 3
+    _noteJumpMovementSpeed: 23
+    _beatmapData: {fileID: 11400000, guid: 9fc7d4208787df34ab26180f0a0f7cb7, type: 2}

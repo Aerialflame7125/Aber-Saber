@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad14bc8b86f67bd794abb71981003f32, type: 3}
+  m_Name: $100BillsOneSaber
+  m_EditorClassIdentifier:
+  _levelID: Level4OneSaber
+  _songName: $100 Bills
+  _songSubName:
+  _songAuthorName: Jaroslav Beck
+  _audioClip: {fileID: 8300000, guid: 55ba2c7889a97f147af430cd57c4b0f8, type: 3}
+  _beatsPerMinute: 210
+  _songTimeOffset: 0
+  _shuffle: 0
+  _shufflePeriod: 0
+  _previewStartTime: 87
+  _previewDuration: 12
+  _coverImage: {fileID: 21300000, guid: 2f7a43acf9f76d6489080d18001f409e, type: 2}
+  _environmentSceneInfo: {fileID: 11400000, guid: a3ab5c648fb18344ebcf2fb3bff264c8, type: 2}
+  _difficultyBeatmaps:
+  - _difficulty: 3
+    _difficultyRank: 8
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: aa456c6cc0505c44188a54995f4bae9e, type: 2}

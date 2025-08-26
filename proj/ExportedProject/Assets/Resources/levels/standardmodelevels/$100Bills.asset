@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad14bc8b86f67bd794abb71981003f32, type: 3}
+  m_Name: $100Bills
+  m_EditorClassIdentifier: 
+  _levelID: 100Bills
+  _songName: $100 Bills
+  _songSubName: 
+  _songAuthorName: Jaroslav Beck
+  _audioClip: {fileID: 8300000, guid: 55ba2c7889a97f147af430cd57c4b0f8, type: 3}
+  _beatsPerMinute: 210
+  _songTimeOffset: 0
+  _shuffle: 0
+  _shufflePeriod: 0
+  _previewStartTime: 87
+  _previewDuration: 12
+  _coverImage: {fileID: 21300000, guid: 2f7a43acf9f76d6489080d18001f409e, type: 2}
+  _environmentSceneInfo: {fileID: 11400000, guid: a3ab5c648fb18344ebcf2fb3bff264c8,
+    type: 2}
+  _difficultyBeatmaps:
+  - _difficulty: 1
+    _difficultyRank: 3
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: d0df638f8d8fbac40a663195b0390143, type: 2}
+  - _difficulty: 2
+    _difficultyRank: 5
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: d19a733ab779d2047aa87e8bf6f67602, type: 2}
+  - _difficulty: 3
+    _difficultyRank: 8
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: 931eeb6a9a300f94da57ed62ef5d8964, type: 2}
+  - _difficulty: 0
+    _difficultyRank: 1
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: a6f85abdbf6a0ac46a5ec0d0ee02de06, type: 2}
+  _sortedDifficultyBeatmaps:
+  - _difficulty: 0
+    _difficultyRank: 1
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: a6f85abdbf6a0ac46a5ec0d0ee02de06, type: 2}
+  - _difficulty: 1
+    _difficultyRank: 3
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: d0df638f8d8fbac40a663195b0390143, type: 2}
+  - _difficulty: 2
+    _difficultyRank: 5
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: d19a733ab779d2047aa87e8bf6f67602, type: 2}
+  - _difficulty: 3
+    _difficultyRank: 8
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: 931eeb6a9a300f94da57ed62ef5d8964, type: 2}

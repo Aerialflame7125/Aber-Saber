@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90034e0436909f500356138e0f90a85e, type: 3}
+  m_Name: LevelCollectionsForGameplayModes
+  m_EditorClassIdentifier: 
+  _collections:
+  - _gameplayMode: 0
+    _levelCollection: {fileID: 11400000, guid: f5f314143c01ed84ebea42d1935cefb5, type: 2}
+  - _gameplayMode: 1
+    _levelCollection: {fileID: 11400000, guid: 20254355fac63344ab8e87de32e35196, type: 2}
+  - _gameplayMode: 2
+    _levelCollection: {fileID: 11400000, guid: 690aeef3665681a4192609305a0955d9, type: 2}
+  - _gameplayMode: 3
+    _levelCollection: {fileID: 11400000, guid: f5f314143c01ed84ebea42d1935cefb5, type: 2}

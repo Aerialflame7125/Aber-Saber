@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1534981387689024
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4117391674370877}
+  - component: {fileID: 114544177472913594}
+  - component: {fileID: 114568264370011352}
+  - component: {fileID: 114017399604698704}
+  m_Layer: 0
+  m_Name: MixedRealityWebCam
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4117391674370877
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1534981387689024}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114544177472913594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1534981387689024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ddb4c9a8b2ba0de569f9d73b7282aea, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _supportHotSwapping: 0
+  _supportInternalFormatConversion: 1
+  _shaderBGRA32: {fileID: 4800000, guid: 7aff885698870c646b1e9f0c55e64a42, type: 3}
+  _shaderMONO8: {fileID: 4800000, guid: afbf00541c354fb4aae61472d49270a8, type: 3}
+  _shaderYUY2: {fileID: 4800000, guid: 19d2856ff7962614195647a6828c8987, type: 3}
+  _shaderUYVY: {fileID: 4800000, guid: 287db26e84063d8439df12d0cd192ff0, type: 3}
+  _shaderYVYU: {fileID: 4800000, guid: b33e6d3f5cba91a42ae34bf9a043f0b3, type: 3}
+  _shaderHDYC: {fileID: 4800000, guid: d245af017febecd42a15292c87f4bd0e, type: 3}
+  _shaderI420: {fileID: 4800000, guid: 5b9a650aed885894ebdfdb54dec445d8, type: 3}
+  _shaderYV12: {fileID: 4800000, guid: 2ce1eec7111d81742adb511d21a97a0d, type: 3}
+  _shaderDeinterlace: {fileID: 4800000, guid: a3f49d89c2ce1a648b3d46f4c60e7559, type: 3}
+--- !u!114 &114568264370011352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1534981387689024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e80d036897cd628ea43173d56a0e4ef, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _deviceSelection: 0
+  _desiredDeviceNames:
+  - Logitech HD Pro Webcam C920
+  - Decklink Video Capture
+  - Logitech Webcam Pro 9000
+  _desiredDeviceIndex: 0
+  _modeSelection: 0
+  _desiredResolutions:
+  - {x: 1920, y: 1080}
+  - {x: 1280, y: 720}
+  - {x: 640, y: 360}
+  - {x: 640, y: 480}
+  _desiredModeIndex: -1
+  _maintainAspectRatio: 0
+  _highestFrameRate: 1
+  _videoInputSelection: 0
+  _desiredVideoInputs:
+  - 6
+  - 3
+  _desiredVideoInputIndex: 0
+  _playOnStart: 0
+  _deinterlace: 0
+  _flipX: 0
+  _flipY: 0
+  _updateHotSwap: 0
+  _updateFrameRates: 0
+  _updateSettings: 0
+--- !u!114 &114017399604698704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1534981387689024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac1a44611a6b68fe3276b0d2f6634512, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _material: {fileID: 2100000, guid: 45ec402a54842454cbcfde10796bf402, type: 2}
+  _liveCamera: {fileID: 114568264370011352}
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1534981387689024}
+  m_IsPrefabParent: 1

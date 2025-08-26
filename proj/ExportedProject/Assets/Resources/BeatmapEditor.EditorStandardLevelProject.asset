@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55a8e02786ce87f5f25cc5435fdacb23, type: 3}
+  m_Name: BeatmapEditor.EditorStandardLevelProject
+  m_EditorClassIdentifier:
+  _editorBeatmap: {fileID: 11400000, guid: f78e6ce2f408da64a9bdf3935a7bd8e6, type: 2}
+  _editorAudio: {fileID: 11400000, guid: 71a090de658609d4ebee3cc23141ae14, type: 2}
+  _coverImage: {fileID: 11400000, guid: 3247a1e56e7ecb74aa81635e39d5e4d1, type: 2}
+  _levelInfo: {fileID: 11400000, guid: de09f9d9cb875c143813ff43c7f265ba, type: 2}
+  _songParams: {fileID: 11400000, guid: db246539766248743a9775412c02c697, type: 2}
+  _activeDifficulty: {fileID: 11400000, guid: ee552050db5a37f409dcdd6d36ec757c, type: 2}

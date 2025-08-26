@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad14bc8b86f67bd794abb71981003f32, type: 3}
+  m_Name: Escape
+  m_EditorClassIdentifier:
+  _levelID: Level2
+  _songName: Escape
+  _songSubName: ft. Summer Haze
+  _songAuthorName: Jaroslav Beck, Summer Haze
+  _audioClip: {fileID: 8300000, guid: 54c16347ae636db47889a8ca351fbff9, type: 3}
+  _beatsPerMinute: 175
+  _songTimeOffset: 0
+  _shuffle: 0
+  _shufflePeriod: 0
+  _previewStartTime: 87
+  _previewDuration: 12
+  _coverImage: {fileID: 21300000, guid: 88f452917269ca24aa0c93aa9b9fefdc, type: 2}
+  _environmentSceneInfo: {fileID: 11400000, guid: d721b08049f39de47a89a66d6c0573fd, type: 2}
+  _difficultyBeatmaps:
+  - _difficulty: 1
+    _difficultyRank: 3
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: db11811f1ad667e4f8cad7ecfc9c153c, type: 2}
+  - _difficulty: 2
+    _difficultyRank: 5
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: dcacb42ae02140844bfb32386f11b6c1, type: 2}
+  - _difficulty: 3
+    _difficultyRank: 8
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: f47f00aee38c6d646b8525e9b0703fc1, type: 2}
+  - _difficulty: 0
+    _difficultyRank: 1
+    _noteJumpMovementSpeed: 0
+    _beatmapData: {fileID: 11400000, guid: 73266c46211adc24aa7933d41de0487e, type: 2}
